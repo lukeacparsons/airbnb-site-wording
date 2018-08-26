@@ -18,7 +18,8 @@ out = json.dumps(parsed, indent=4, sort_keys=True)
 output1 = open("all_phrases.json","w")
 
 output1.write(out)
-output1.close
+output1.flush()
+output1.close()
 
 time.sleep(10)
 
