@@ -20,7 +20,8 @@ output1 = open("all_phrases.json","w")
 output1.write(out)
 output1.close
 
-time.sleep(3)
+time.sleep(10)
+
 call('git add .', shell = True)
 call('git commit -m "commiting..."', shell = True)
 call('git push origin master', shell = True)
