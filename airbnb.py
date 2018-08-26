@@ -2,7 +2,6 @@ import urllib.request
 import json
 from subprocess import call
 import time
-
 header = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'}
 user_agent = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009021910 Firefox/3.0.7'
 url = "https://www.airbnb.com/api/core_guest_spa/all_phrases"
@@ -14,7 +13,7 @@ contents = response.read().decode('utf-8') # The data u need
 
 parsed = json.loads(contents)
 out = json.dumps(parsed, indent=4, sort_keys=True)
-
+print(out)
 output1 = open("all_phrases.json","w")
 
 output1.write(out)
