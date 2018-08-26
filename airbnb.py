@@ -22,5 +22,5 @@ output1.close
 
 time.sleep(3)
 call('git add .', shell = True)
-call('git commit -a "commiting..."', shell = True)
+call('git commit -m "commiting..."', shell = True)
 call('git push origin master', shell = True)
