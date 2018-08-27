@@ -17,11 +17,7 @@ del parsed['not_licensed_to_provide_booking_service']
 del parsed['online.cc:initial.info']
 
 out = json.dumps(parsed, indent=4, sort_keys=True)
-<<<<<<< HEAD
 
-
-=======
->>>>>>> c73cfc15b9ab52d04e42e28fc87da8fc08fe6724
 output1 = open("all_phrases.json","w")
 
 output1.write(out)
