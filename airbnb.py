@@ -13,7 +13,11 @@ response = urllib.request.urlopen(request)
 contents = response.read() # The data u need
 
 parsed = json.loads(contents)
+del parsed['not_licensed_to_provide_booking_service']
+del parsed['online.cc:initial.info']
+
 out = json.dumps(parsed, indent=4, sort_keys=True)
+
 
 output1 = open("all_phrases.json","w")
 
