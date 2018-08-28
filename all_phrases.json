@@ -4451,7 +4451,7 @@
     "pricing_disclaimer_gb": "Additional fees apply. Taxes may be added.",
     "pricing_disclaimer_nl": "An additional service fee may apply.",
     "pricing_disclaimer_without_dates": "Enter dates to see full pricing. Additional fees apply. Taxes may be added.",
-    "pricing_disclaimer_without_dates_au_exclude_taxes": "Enter dates to see the total trip price including additional fees (but excluding any taxes).",
+    "pricing_disclaimer_without_dates_au_exclude_taxes": "Enter dates and number of guests to see the total trip price including additional fees (but excluding any taxes).",
     "pricing_disclaimer_without_dates_au_include_taxes": "Enter dates to see the total trip price, including additional fees and any taxes.",
     "pricing_disclaimer_without_dates_gb": "Enter dates to see full pricing. Additional fees apply. Taxes may be added.",
     "pricing_disclaimer_without_dates_nl": "Enter dates to see full pricing. An additional cleaning fee and service fee may apply.",
