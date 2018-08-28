@@ -3012,6 +3012,7 @@
         "chat_button_pending": "Just a moment please\u2026your concierge will be right with you.",
         "chat_button_title": "Click here to begin chatting with your concierge",
         "current_or_past_trip_title": "Your trip to %{destination}.",
+        "day_detail_booked_events_title": "Your plans",
         "day_detail_next_button": "Next",
         "day_detail_previous_button": "Previous",
         "days_until": "Your trip to %{destination} begins tomorrow. |||| %{days} days until your trip to %{destination}.",
