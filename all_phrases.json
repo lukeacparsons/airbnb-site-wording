@@ -3617,6 +3617,12 @@
         "header": "Welcome to Airbnb",
         "subheader": "Hosts and guests on Airbnb are real people with real homes. That\u2019s why you\u2019ll have to confirm a few, quick details to activate your account."
     },
+    "mario_sensitive_image_reminder_modal": {
+        "body": "It looks like this profile photo might have some personal or sensitive information. Others will see this photo, so make sure it shows your face and nothing you\u2019d want seen publicly.",
+        "no_button": "No, use another photo",
+        "title": "Are you sure you want to use this photo?",
+        "yes_button": "Yes"
+    },
     "mario_virality_facebook_friends_section_copy": {
         "body": "%{smart_count} of your Facebook friends is already on Airbnb. |||| %{smart_count} of your Facebook friends are already on Airbnb",
         "header": "Did you know?"
