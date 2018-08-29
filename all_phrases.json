@@ -2992,7 +2992,7 @@
         "status_label_recommended": "RECOMMENDED"
     },
     "mario_copy_monorail_itinerary": {
-        "add_freeform_event_link": "Create new event",
+        "add_freeform_event_link": "Add custom item",
         "add_freeform_form_cancel_button": "Cancel",
         "add_freeform_form_date_label": "When",
         "add_freeform_form_date_placeholder": "Add date",
