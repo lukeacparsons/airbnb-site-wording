@@ -3273,6 +3273,10 @@
         "user_confirmation_explanation_title": "Safe, secure and trusted payments with Airbnb",
         "user_confirmation_heading": "Continue with Airbnb"
     },
+    "mario_copy_monorail_nearby_experiences": {
+        "headline_1": "Things to do near this home",
+        "subheadline_1": "With Airbnb Experiences, you can find surfing, cooking classes, and more in the area."
+    },
     "mario_copy_monorail_p2": {
         "moweb.apply_filters": "Apply filters"
     },
