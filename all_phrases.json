@@ -2572,6 +2572,8 @@
         "referrals.post_contact_modal.invite_friends_and_earn_credit": "Now, earn travel credit for your future adventures. You can get %{credit_amount} for each friend you invite."
     },
     "mario_copy_identity_errors_account_verification": {
+        "alert.message": "Pending ID confirmation",
+        "alert.message.clickable": "Finish last step to book",
         "all_errors.additional_context.booking": "Once that\u2019s done, you\u2019ll be all set to finalize your reservation.",
         "all_errors.additional_context.booking.with_deadlline": "To book this listing, please add a new photo by %{date_time}.",
         "all_errors.additional_context.booking.with_listing_and_deadlline": "To finish booking %{listing_name}, please add a new photo by %{date_time}.",
