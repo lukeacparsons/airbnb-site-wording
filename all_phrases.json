@@ -2548,6 +2548,22 @@
         "quality_and_style_list_item_6": "Every detail is designed to make the home feel like your own",
         "quality_and_style_title": "Artfully designed"
     },
+    "mario_copy_fapiao": {
+        "address_form_district_select_placeholder": "District",
+        "address_form_name_input_label": "Recipient name",
+        "address_form_name_input_placeholder": "Name",
+        "address_form_phone_number_input_label": "Recipient phone number",
+        "address_form_phone_number_input_placeholder": "Phone number",
+        "address_form_province_and_city_select_label": "Province and district",
+        "address_form_province_select_placeholder": "Province",
+        "address_form_street_input_label": "Recipient address",
+        "address_form_street_input_placeholder": "Address",
+        "address_model_content_subtitle": "To ensure timely delivery of your Fapiao, please verify that all fields are inputted correctly.",
+        "address_model_content_title": "Fill in delivery information",
+        "error_messages_empty_address_name_field": "This field cannot be empty.",
+        "error_messages_empty_address_phone_number_field": "This field cannot be empty.",
+        "error_messages_empty_address_street_field": "This field cannot be empty."
+    },
     "mario_copy_host_less_guest_referrals": {
         "email.reservation.guest_reservation_acceptance_confirmation.non_zero_guest_host_reward": "You\u2019ll get %{referrer_credit_guest} when they travel and %{referrer_credit_host} when they host.",
         "email.reservation.guest_reservation_acceptance_confirmation.referral_text": "Share your personal invite link to give friends %{sign_up_credit} off their first trip!",
