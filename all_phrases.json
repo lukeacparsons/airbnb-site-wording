@@ -4675,6 +4675,7 @@
     "restaurant.details.highlights": "RESTAURANT HIGHLIGHTS",
     "restaurant.details.menu.open_menu_link": "Read the menu",
     "restaurant.details.menu.title": "Menu",
+    "restaurant.details.number_ratings_resy": "%{smart_count} review from Resy||||%{smart_count} reviews from Resy",
     "restaurant.details.permanently_closed": "Permanently closed",
     "restaurant.details.social_media.facebook": "Facebook",
     "restaurant.details.social_media.instagram": "Instagram",
