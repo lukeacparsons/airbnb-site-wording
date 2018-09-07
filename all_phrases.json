@@ -2497,21 +2497,6 @@
     "magical_trips.launch_platform.airbnb_places": "Airbnb Places",
     "magical_trips.trip_template_pdp.light_box.photo location": "%{current_photo_number} of %{total_photos_count} photos",
     "map": "Map",
-    "mario_beyond_coming_soon_landing_page": {
-        "description_of_beyond": "Be one of the first to take a trip with Beyond by Airbnb and experience the highest caliber of hospitality, from our curated collection of homes to unique local experiences.",
-        "email": "Email",
-        "email_body": "Check out Beyond by Airbnb: The highest caliber of hospitality, from our curated collection of homes to unique local experiences.",
-        "email_subject": "Beyond by Airbnb \u25cb The highest caliber of hospitality \u25cb Coming soon",
-        "facebook": "Facebook",
-        "legal_disclosure": "You agree to receive emails about Beyond by Airbnb and acknowledge that your personal data will be processed in accordance with %{link_start}Airbnb\u2019s Privacy Policy%{link_end}. You can opt out of emails via unsubscribe link in each email.",
-        "messenger": "Messenger",
-        "request_early_access": "Request Early Access",
-        "share": "Share",
-        "submission_verification": "Your email has been submitted successfully. We\u2019ll contact you once your invitation is ready.",
-        "thank_you": "Thank you",
-        "tweet_text": "#BeyondbyAirbnb \u25cb The highest caliber of hospitality \u25cb Coming soon",
-        "twitter": "Twitter"
-    },
     "mario_copy_beyond_inspection_panel": {
         "beyond_standard": "The Beyond Standard",
         "beyond_standard_description": "We know every detail counts, which is why we evaluate every home in person when considering it for our portfolio and before every guest arrives. From the size of the bathtub to the number of steps to the beach, we look in and around every corner to make sure our standards exceed yours.",
@@ -3302,7 +3287,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
