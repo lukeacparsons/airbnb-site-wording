@@ -2587,7 +2587,18 @@
         "govt_id_flow_intro_learn_more_link": "Learn more about this step.",
         "govt_id_flow_intro_title": "Let\u2019s add ID instead",
         "govt_id_flow_success_subtitle": "We appreciate you spending the extra time adding your ID and helping make Airbnb even more secure.",
-        "govt_id_flow_success_title": "We\u2019re reviewing your ID"
+        "govt_id_flow_success_title": "We\u2019re reviewing your ID",
+        "p5_pending_content_1": "Once your ID gets approved, we\u2019ll pass along your request to Rita, who then has 24 hours to respond. We\u2019ll also send you an email when your reservation is officially confirmed.",
+        "p5_pending_content_2": "In the meantime, no one else can make a reservation at Rita\u2019s place for the dates you selected.",
+        "p5_pending_cta": "Show pending request",
+        "p5_pending_subtitle": "This isn\u2019t a confirmed reservation\u2014yet.",
+        "p5_pending_title": "Your request is pending",
+        "post_fov_reservation_cta_text": "Next",
+        "post_fov_reservation_subtitle_last_minute": "You told us you\u2019d rather cancel your reservation than finish the last step of checking that you\u2019re really you.",
+        "post_fov_reservation_text": "We still need to check that you\u2019re really you. If you don\u2019t complete the last step in time, %{strong_tag_start}your reservation will be canceled%{strong_tag_end}.",
+        "post_fov_reservation_text_last_minute": "Keep in mind: If you try to book this listing again or book another listing, you\u2019ll still need to add the last 4 digits of your Social Security number or a government ID.",
+        "post_fov_reservation_title": "Your reservation will be held for 12 hours",
+        "post_fov_reservation_title_last_minute": "Your reservation has been canceled"
     },
     "mario_copy_luxury_p4": {
         "lux_verification.subtitle": "Enter a phone number your Trip Designer can use to contact you during your trip. We\u2019ll send you a text message with a confirmation code.",
@@ -3298,7 +3309,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
@@ -4460,12 +4471,16 @@
     "price": "Price",
     "price_details": "Details",
     "price_header_from_label_before_price_string": "From",
+    "price_per_month": "%{price} per month",
+    "price_per_night": "%{price} per night",
+    "price_per_night_per_person": "%{price} per night per person",
     "price_range": "Price range",
     "price_summary.table caption as price breakdown": "Price breakdown",
     "price_summary.table header for price amount": "Amount",
     "price_summary.table header for price description": "Price description",
     "price_tooltip_label": "Listing price tooltip with price breakdown",
     "price_tooltip_title": "Price breakdown",
+    "price_total": "%{price} total",
     "price_without_promotion": "Price without promotion",
     "prices_are_from_prices_body": "Enter your dates to see full pricing and what\u2019s available for your trip.",
     "prices_are_from_prices_title": "Timing is everything",
