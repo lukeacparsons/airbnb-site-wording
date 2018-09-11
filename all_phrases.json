@@ -2203,7 +2203,7 @@
     "host_standards.rooms.paused_by_review_flash.v3": "Because your overall star rating is less than %{suspension_threshold} stars, your listing has been temporarily paused and removed from search results. You can reactivate and come back to hosting after learning more about Airbnb ratings and hosting standards.||||Because your overall star rating is less than %{suspension_threshold} stars, your listings have been temporarily paused and removed from search results. You can reactivate and come back to hosting after learning more about Airbnb ratings and hosting standards.",
     "host_standards.rooms.paused_flash": "Your listing is temporarily paused. %{reactivate_link_start}Learn more and reactivate.%{reactivate_link_end}||||Your listings are temporarily paused. %{reactivate_link_start}Learn more and reactivate.%{reactivate_link_end}",
     "host_standards.rooms.paused_flash_title": "Your listing has been temporarily paused||||Your listings have been temporarily paused",
-    "host_standards.rooms.paused_until_date": "Your listing is paused until %{reactivation_date}.",
+    "host_standards.rooms.paused_until_date": "Your listing is paused until %{reactivation_date}.||||Your listings are paused until %{reactivation_date}.",
     "host_standards.rooms.reactivate_now": "Reactivate now",
     "host_standards.rooms.review_hard_suspension.reactivatable_body.duplicate_account": "Reactivate when you\u2019re ready to make your listing available in search. Check your calendar settings for listing availability.|||| Reactivate when you\u2019re ready to make your listings available in search. Check your calendar settings for listing availability.",
     "host_standards.rooms.review_hard_suspension.reactivatable_body.dynamic_threshold": "Your listing was suspended because your overall star rating was below %{suspension_threshold} stars.||||Your listings were suspended because your overall star rating was below %{suspension_threshold} stars.",
@@ -2566,6 +2566,7 @@
         "all_errors.additional_context.default": "Once that\u2019s done, you\u2019ll be all set to book your next trip.",
         "all_errors.additional_context.experiences": "Once that\u2019s done, you\u2019ll be all set to book %{style_start}%{experience_name}%{style_end}.",
         "all_errors.additional_context.suspension_appeal": "Once that\u2019s done, you\u2019ll be all set to unlock your account.",
+        "all_errors.push.title": "Complete your booking",
         "face_matching_queue.button": "Take another photo",
         "face_matching_queue.error_accessibility_label": "There was a problem with the photo you took of yourself",
         "government_id.button": "Add another photo",
@@ -2577,6 +2578,16 @@
         "government_id.selfie_required": "Then we can match this photo with the photo you took of yourself.",
         "qualifying_data_match.button": "Confirm your ID",
         "qualifying_data_match.error_accessibility_label": "One more step to confirm your ID belongs to you"
+    },
+    "mario_copy_identity_fov": {
+        "govt_id_flow_intro_body_description": "It turns out we couldn\u2019t use the last 4 digits of your Social Security number for this last step. So you\u2019ll need to add an ID instead.",
+        "govt_id_flow_intro_body_explanation": "And while we\u2019re helping you take care of that, no one else can make a reservation at Rita\u2019s place for the dates you selected.",
+        "govt_id_flow_intro_cta_add_an_id": "Add an ID",
+        "govt_id_flow_intro_cta_cancel": "I\u2019ll do this later",
+        "govt_id_flow_intro_learn_more_link": "Learn more about this step.",
+        "govt_id_flow_intro_title": "Let\u2019s add ID instead",
+        "govt_id_flow_success_subtitle": "We appreciate you spending the extra time adding your ID and helping make Airbnb even more secure.",
+        "govt_id_flow_success_title": "We\u2019re reviewing your ID"
     },
     "mario_copy_luxury_p4": {
         "lux_verification.subtitle": "Enter a phone number your Trip Designer can use to contact you during your trip. We\u2019ll send you a text message with a confirmation code.",
