@@ -2214,7 +2214,7 @@
     "host_standards.rooms.temporarily_paused.Learn more": "%{link_start}Learn more%{link_end}",
     "hosted_by": "Hosted by %{host_name}",
     "hosts_home_location": "%{host_name}\u2019s home is located in %{location}",
-    "hosts_home_location_sentance": "%{host_name}\u2019s home is located in %{location}.",
+    "hosts_home_location_sentence": "%{host_name}\u2019s home is located in %{location}.",
     "hotmail_permission_text": "Import contacts from Hotmail",
     "house_rules": "House rules",
     "house_rules.expectations_title": "You must also acknowledge",
@@ -3313,7 +3313,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
