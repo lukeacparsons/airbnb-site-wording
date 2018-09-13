@@ -1565,6 +1565,7 @@
     "enter_valid_email": "Please enter a valid email",
     "entire_home": "Entire Home",
     "error message an invalid password when signing up": "Your password can\u2019t contain your name or email address. Please try again.",
+    "error.Oops": "Oops!",
     "error.To sign up, you must be 18 or older.": "To sign up, you must be 18 or older.",
     "error.generic": "There was an error verifying your identity. Please try again.",
     "error.number": "Please enter a number.",
