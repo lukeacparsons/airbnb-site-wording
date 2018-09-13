@@ -3315,7 +3315,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
@@ -4098,6 +4098,7 @@
     "mt.explore.tab_name.homes.uppercase": "HOMES",
     "mt.explore.tab_name.places": "Places",
     "mt.explore.tab_name.places.uppercase": "PLACES",
+    "mt.explore.tab_name.restaurants": "Restaurants",
     "mt.explore.tab_name.restaurants.uppercase": "RESTAURANTS",
     "mt.explore.tab_name.select_homes.uppercase": "SELECT HOMES",
     "mt.explore.tab_name.stories": "Stories",
