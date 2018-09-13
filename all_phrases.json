@@ -2688,6 +2688,7 @@
         "included_services_section_title": "Included",
         "inspection_copy": "We evaluate %{listingName} in person to make sure it has everything you need, from arrival to departure.",
         "learn_more_button": "Learn More",
+        "luxury_badge": "Luxury",
         "next_button": "Next",
         "photo_mosaic_call_to_action": "Show all rooms |||| Show %{smart_count} rooms",
         "policies_and_requirements": "Policies and requirements",
@@ -3313,7 +3314,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
