@@ -2675,6 +2675,7 @@
         "footer_bar_selected_dates_num_nights": "for %{numNights} nights",
         "footer_bar_starting_price": "From %{priceString} per night",
         "footer_bar_total_price": "%{totalPrice} total",
+        "full_service_tag": "Full service",
         "home_tour_call_to_action": "Explore the home",
         "home_tour_overview_floor_plans_title": "Floor plans",
         "home_tour_overview_rooms_title": "Rooms",
@@ -3314,7 +3315,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
