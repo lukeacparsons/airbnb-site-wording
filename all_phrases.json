@@ -3316,7 +3316,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
@@ -4486,6 +4486,8 @@
     "price_presenter.price_breakdown_expanded_hide_button_text": "Hide price details",
     "price_presenter.tiered_pricing_discount_line_item_tooltip_content": "We gave you a discount for waiving your host\u2019s cancellation policy.",
     "price_range": "Price range",
+    "price_slash_per_month_no_space": "%{from_start}%{price}%{from_end}/month",
+    "price_slash_per_night_no_space": "%{from_start}%{price}%{from_end}/night",
     "price_summary.table caption as price breakdown": "Price breakdown",
     "price_summary.table header for price amount": "Amount",
     "price_summary.table header for price description": "Price description",
