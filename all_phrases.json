@@ -709,6 +709,21 @@
     "airlock.fake_inventory_appeal_submitted.introduction.title": "We\u2019re reviewing your info",
     "airlock.fake_inventory_appeal_under_review.introduction.description": "We\u2019re reviewing your info. There\u2019s nothing else you need to do right now.",
     "airlock.fake_inventory_appeal_under_review.introduction.title": "Please wait to list",
+    "airlock.four axioms add profile photo description": "Put a face to your name! We\u2019ll add this to your profile, and share it with future hosts and guests.",
+    "airlock.four axioms add profile photo title": "Add your profile photo",
+    "airlock.four axioms basic info description": "Take a moment to make sure this info is correct.",
+    "airlock.four axioms basic info title": "Confirm these details",
+    "airlock.four axioms birthdate title": "Birthdate",
+    "airlock.four axioms check photo title": "Check your photo photo",
+    "airlock.four axioms confirm phone number description": "You should have access to this phone so you can recieve account security codes from us.",
+    "airlock.four axioms confirm phone number title": "Confirm your phone number",
+    "airlock.four axioms confirm photo button": "Yes, that\u2019 me",
+    "airlock.four axioms confirm photo explanation text": "Make sure this is a photo that clearly shows your face.",
+    "airlock.four axioms confirm photo title": "Confirm this is you",
+    "airlock.four axioms intro description": "This helps us keep your account up-to-date and secure\u2014and it won\u2019t take long. Once we\u2019re done, you can pick up where you left off.",
+    "airlock.four axioms intro title": "Let\u2019s go over a few things together...",
+    "airlock.four axioms select phone number label": "Get a code to %{strong_start}%{phone_number}%{strong_end}",
+    "airlock.four axioms verification.success description": "That\u2019s everything we needed to cover\u2014now you can go back to what you were doing.",
     "airlock.generic_error": "Something went wrong with your request",
     "airlock.identity_info_confirmation.response.birthday": "Birthday",
     "airlock.identity_info_confirmation.response.birthday_day": "Day",
@@ -792,7 +807,6 @@
     "airlock.password_reset.response.title": "Let\u2019s change your password.",
     "airlock.payment instrument verification.fallback on cba": "Upload a statement instead",
     "airlock.payment instrument verification.success description": "Your card is confirmed\u2014now we\u2019ll finish processing your payment.",
-    "airlock.payment instrument verification.success header": "Thanks, %{first_name}",
     "airlock.payment verification help link": "Why do I need to verify my payment method?",
     "airlock.paypal.intro.description.1": "You\u2019ll need to confirm your PayPal account before we can process your payment. This extra step helps prevent fraud and keep your account secure.",
     "airlock.paypal.intro.description.2": "Once you\u2019re done, we\u2019ll take you back to Airbnb.",
@@ -896,6 +910,7 @@
     "airlock.verification failed cta": "Choose another option",
     "airlock.verification failed error message": "We were not able to secure your account using Facebook.",
     "airlock.verification failed title": "Let\u2019s try something else",
+    "airlock.verification success thank you user header": "Thanks, %{first_name}",
     "airlock.verification thank you user header": "You\u2019re all set!",
     "airlock.wechat verification failed error message": "We were not able to secure your account using WeChat.",
     "airlock.wechat.login with your wechat account": "Connect to WeChat to verify your identity",
@@ -3316,7 +3331,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
