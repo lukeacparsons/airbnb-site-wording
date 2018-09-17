@@ -3331,7 +3331,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
@@ -4633,6 +4633,8 @@
     "quick_pay.text for add this credit card button version 2": "Add card",
     "quick_pay.text for adding PayPal account": "Securely connect to PayPal to finish adding your payment method.",
     "quick_pay.text for adding a coupon": "Add a coupon",
+    "quick_pay.text for alert for switching currency to CNY": "To use Alipay or WeChat, please switch your currency to CNY.",
+    "quick_pay.text for alert for switching currency to CNY action link": "Change currency to CNY",
     "quick_pay.text for applying a coupon": "Apply",
     "quick_pay.text for billing country selector label": "Billing country",
     "quick_pay.text for collapsing coupon input box": "Cancel",
