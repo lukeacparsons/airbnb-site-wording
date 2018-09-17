@@ -3331,7 +3331,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
@@ -5026,7 +5026,6 @@
     "shared.Experience_Hosting": "Experience Hosting",
     "shared.Explore the world": "Explore the world",
     "shared.Facebook": "Facebook",
-    "shared.Finish creating the trip listing": "Finish Your Experience",
     "shared.Finish listing your space": "Finish Your Listing",
     "shared.Friends": "Friends",
     "shared.Gift Cards": "Gift Cards",
