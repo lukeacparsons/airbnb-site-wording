@@ -3489,6 +3489,13 @@
     "mario_guest_protection_policy_note_p4": {
         "sidebar_guest_protection_note": "%{bold_start}Book with confidence%{bold_end} Your trip is protected by our %{link_start}Guest Refund Policy%{link_end}."
     },
+    "mario_hog_become_a_host_dropdown_experiment": {
+        "experiences_header": "Experiences",
+        "homes_header": "Homes",
+        "learn_about_hosting_title": "Learn about hosting",
+        "list_your_place": "List your place",
+        "start_hosting": "Start hosting"
+    },
     "mario_luxury_base": {
         "chat_brief_button_chat_with_concierge": "Chat",
         "chat_button_pending": "Chat now opening\u2026",
