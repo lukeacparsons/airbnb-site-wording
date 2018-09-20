@@ -3600,6 +3600,7 @@
         "call_an_agent_title": "Call an agent",
         "call_icon_accessibility_label": "Call agents",
         "chat_drawer_header": "Chat with Beyond",
+        "chat_not_available": "Sorry, messaging isn\u2019t available at this time. Please try again later.",
         "chat_qualifier_back": "Back",
         "chat_qualifier_checkin": "Check in",
         "chat_qualifier_checkout": "Check out",
