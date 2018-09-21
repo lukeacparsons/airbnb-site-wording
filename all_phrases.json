@@ -2499,7 +2499,7 @@
     "luxury.pdp.save": "Save",
     "luxury.pdp.security_deposit": "A Host requires a Security Deposit of %{security_deposit} to book this listing. The Guest is responsible for the amount of the Security Deposit, but it will not be charged unless the host makes a claim.",
     "luxury.pdp.see_all": "See all",
-    "luxury.pdp.see_full_calendar": "See full calendar",
+    "luxury.pdp.see_full_calendar": "Show full calendar",
     "luxury.pdp.see_pricing_options": "See pricing options",
     "luxury.pdp.select_dates": "Select travel dates",
     "luxury.pdp.services": "Services",
