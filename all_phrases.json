@@ -3361,6 +3361,13 @@
         "title2": "A few tips for your first Airbnb trip:"
     },
     "mario_copy_monorail_phone_verification_on_p4": {
+        "feedback_do_not_understand_error": "do not understand error",
+        "feedback_not_receiving_verification_code_on_whatsapp": "not receiving verification code on WhatsApp",
+        "feedback_not_receiving_verification_code_via_phone_call": "not receiving verification code via phone call",
+        "feedback_not_receiving_verification_code_via_sms": "not receiving verification code via SMS",
+        "feedback_other": "other",
+        "feedback_unsupported_phone_number": "unsupported phone number",
+        "feedback_verification_code_does_not_work": "verification code does not work",
         "generic_error_message": "Something went wrong. Please try again later.",
         "phone_number_form_cta": "Get code",
         "phone_number_form_options_label": "Send code to:",
