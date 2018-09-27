@@ -4659,6 +4659,8 @@
     "quick_pay.label for state (Brazilian State)": "State",
     "quick_pay.label for street name (Address1 for Brazilian Addresses)": "Street name",
     "quick_pay.label for year (Brazilian Birthdate)": "year",
+    "quick_pay.payment plan.bold pay less up front price": "%{strong_start}%{amount}%{strong_end} %{small_start}now%{small_end}",
+    "quick_pay.payment plan.bold price": "%{strong_start}%{amount}%{strong_end}",
     "quick_pay.payment_method_type.Alipay": "Alipay",
     "quick_pay.payment_method_type.American Express card": "American Express card",
     "quick_pay.payment_method_type.Amex Express Checkout": "Amex Express Checkout",
