@@ -2343,6 +2343,8 @@
     "list_your_space.bedrooms_step.subsection.title.bed_detail": "Sleeping arrangements",
     "list_your_space.guest_requirements.new guests cant book": "Guests who are new to Airbnb won\u2019t be able to book your listing without your approval.",
     "list_your_space.miss_out_on_these_benefits.peace of mind.subtitle": "If you\u2019re ever uncomfortable with a reservation, you can cancel penalty-free before or during a trip.",
+    "listing_card.accessibility label for next button in image carousel": "Next image",
+    "listing_card.accessibility label for previous button in image carousel": "Previous image",
     "listing_card.amenities.more": "and more amenities",
     "listing_card.free_cancellation": "Free cancellation",
     "listing_card.show_price_cta": "Check availability",
