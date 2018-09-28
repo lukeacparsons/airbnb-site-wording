@@ -3159,6 +3159,7 @@
     },
     "mario_copy_monorail_itinerary_reservation_object": {
         "add_notes_label": "Add notes",
+        "add_notes_label_v2": "Add details for expensing your trip",
         "address_title": "Address",
         "billing_row_title": "Total Cost",
         "booked_by_title": "Booked by",
@@ -3190,6 +3191,7 @@
         "directions_label": "Directions",
         "edit_notes_error": "Sorry, we had an error saving your notes.",
         "edit_notes_label": "Edit notes",
+        "edit_notes_label_v2": "Edit details for expensing your trip",
         "exchange_money_title": "Send or Request Money",
         "expand_action_text": "View full details",
         "flexible_checkin_checkout": "Flexible",
