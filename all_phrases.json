@@ -5529,6 +5529,7 @@
     "user_profile.reviews.read_more_cta": "Read more",
     "user_profile.reviews.report_link_cta": "Report",
     "user_profile.reviews.response_title": "Response from %{firstName}",
+    "user_profile.reviews.review_already_reported": "You have already reported the review",
     "user_profile.reviews.reviewer.member_since": "Joined in %{year}",
     "user_profile.reviews.reviewer.name_and_location": "%{name}, %{location}",
     "user_profile.reviews.title": "%{smart_count} review||||%{smart_count} reviews",
