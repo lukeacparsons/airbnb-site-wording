@@ -2347,6 +2347,8 @@
     "listing_card.accessibility label for previous button in image carousel": "Previous image",
     "listing_card.amenities.more": "and more amenities",
     "listing_card.free_cancellation": "Free cancellation",
+    "listing_card.headline indicates that this listing is usually booked": "RARE FIND",
+    "listing_card.message indicates that this listing is a rare find": "This place is usually booked.",
     "listing_card.show_price_cta": "Check availability",
     "listing_photo_alt": "Listing photo",
     "listing_tour.close_button_label": "Close",
