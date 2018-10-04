@@ -4816,6 +4816,7 @@
     "reviews.accessible_text.amenity.unavailable": "Unavailable: %{amenity}",
     "reviews.read_all_reviews": "Read all %{review_count} reviews",
     "reviews.report": "Report",
+    "reviews.response_from_name.without_colon": "Response from %{name}",
     "reviews.title": "Reviews",
     "reviews_ordered_by_language_announcement": "Showing reviews in English first",
     "reviews_title": "Reviews",
