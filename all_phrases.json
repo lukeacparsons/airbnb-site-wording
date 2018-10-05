@@ -5547,7 +5547,7 @@
     "users.otp.header": "Two-factor authentication",
     "users.remember_browser.dont_remember_browser_option": "Don't trust this browser",
     "users.remember_browser.header": "Add to trusted browsers?",
-    "users.remember_browser.message": "We won't send you login notifications when youaccess your account from a trusted browser.",
+    "users.remember_browser.message": "We won't send you login notifications when you access your account from a trusted browser.",
     "users.remember_browser.remember_browser_option": "Trust this browser",
     "vacation_rental.landing_page.Coupon expiry date": "Book by %{expires_after}.",
     "vacation_rental.landing_page.Message shown when a coupon is successfully claimed": "You claimed your %{formatted_localized_amount} coupon! Use it on bookings of %{formatted_localized_min_trip_cost} or more by %{expires_after}.",
