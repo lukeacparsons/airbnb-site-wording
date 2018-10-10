@@ -5401,7 +5401,7 @@
     "switch_to_hosting": "Switch to hosting",
     "terms.Nondiscrimination Policy": "Nondiscrimination Policy",
     "terms_privacy_currency_and_more": "Terms, Privacy, Currency & More",
-    "test_listing.banner_for_prohost_test_listings": "%{tag_start}This is a test listing:%{tag_end} Only approved users can interact with it.",
+    "test_listing.banner_for_prohost_test_listings": "%{tag_start}This is a test listing:%{tag_end} Only approved users can view and book it.",
     "thank_you": "Thank You!",
     "thank_you_for_reporting_this_listing": "Thanks for taking the time to report this listing.",
     "thank_you_for_reporting_this_user": "Thanks for taking the time to report this user.",
