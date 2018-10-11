@@ -527,6 +527,8 @@
     "airlock.backup_verification_link.send_code_by_phone_or_email": "%{link_start}Send a code by phone or email instead%{link_end}",
     "airlock.captcha.response.invalid": "Please try completing the prompt below again.",
     "airlock.captcha.thread_create.response.description": "Sometimes, automated programs abuse websites and try to send fake message to others. Complete the prompt below to show you\u2019re a real person who means to send this message.",
+    "airlock.captcha_flow.verification_sucesss.description": "This helps us keep your account secure.",
+    "airlock.captcha_flow.verification_sucesss.header": "Thanks for taking care of that",
     "airlock.cba awaiting review description": "We\u2019ll email you know within 24 hours to let you know if you\u2019re authorized to continue booking. There\u2019s nothing else you need to do right now.",
     "airlock.cba awaiting review title": "Got it! Please sit tight while we review",
     "airlock.cba form description about censoring": "Feel free to block out account balances, any non-Airbnb transactions, and account numbers as long as your full name and the last four digits are visible.",
