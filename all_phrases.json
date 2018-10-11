@@ -374,6 +374,7 @@
     "account_verification.unsupported_country": "Unsupported country",
     "account_verification.upload_from_this_device": "Upload photo from this device",
     "account_verification.upload_image_too_big": "Your image was more than 5mb. Try again with a smaller image.",
+    "account_verification.upload_image_too_big.1mb": "Your image\u2019s file size is larger than 1MB. Try again with a smaller image.",
     "account_verification.upload_your_drivers_license": "Upload an image of your driver\u2019s license |||| Upload images of your driver\u2019s license",
     "account_verification.upload_your_drivers_license_instructions": "Upload an image of the front of your driver\u2019s license (%{country_name}). |||| Upload images of the front and back of your driver\u2019s license (%{country_name}).",
     "account_verification.upload_your_id_card": "Upload an image of your identity card ||||Upload images of your identity card",
