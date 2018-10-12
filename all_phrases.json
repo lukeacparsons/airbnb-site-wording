@@ -1745,6 +1745,7 @@
     "guest_identifications.error_messages.empty_passport_error": "Please enter your passport number.",
     "guest_identifications.error_messages.passport_incomplete_expire_date_error": "Please enter your passport's expiration date.",
     "guest_identifications.error_messages.passport_invalid_expire_date_error": "Invalid passport's expiration date. Please re-enter.",
+    "guest_identifications.error_messages.passport_not_valid_error": "Your passport number is invalid.",
     "guest_identifications.expires_on": "Expires on",
     "guest_identifications.full_name_display_string_for_residence_card_form": "Chinese name",
     "guest_identifications.given_names": "First name",
