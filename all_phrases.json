@@ -4723,6 +4723,7 @@
     "quick_pay.text for payment method selector add new method subheader": "Add payment method",
     "quick_pay.text for payment method selector header": "Select a payment method",
     "quick_pay.text for payment method selector label": "Pay with",
+    "quick_pay.text for payment method selector select another method error": "Select another payment method",
     "quick_pay.text for payment method selector unavailable payment methods": "Unavailable payment methods",
     "quick_pay.text for redeeming a coupon": "Redeem a coupon",
     "quick_pay.text for show payment line item details": "Show Details",
