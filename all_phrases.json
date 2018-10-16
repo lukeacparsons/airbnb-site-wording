@@ -4636,6 +4636,7 @@
     "quick_pay.field_required": "This field is required",
     "quick_pay.fx_message.brazil_iof_message": "Your issuing bank may charge an additional fee since you are paying in %{selected_currency_code}.",
     "quick_pay.fx_message.exchange_rate_included": "The quoted fees include any applicable exchange rate.",
+    "quick_pay.header for payment plan options without link": "How do you want to pay for this trip?",
     "quick_pay.iframe label for card info section": "Card info",
     "quick_pay.iframe label for credit card cvv only": "Add security code",
     "quick_pay.iframe message for invalid card number": "Check your card number",
