@@ -5048,7 +5048,7 @@
     "share_modal.body of email (dls ShareModal)": "Check out this cool thing on Airbnb!",
     "share_modal.body of email dls ShareModal": "Check out this cool spot in Airbnb places!",
     "share_modal.click_for_more_options": "More Share Options",
-    "share_modal.contact_input_placeholder": "Enter email addresses",
+    "share_modal.contact_input_placeholder dls ShareModal component": "Enter email addresses",
     "share_modal.contacts_synced": "%{contactNumber} contacts synced",
     "share_modal.copy_link_to_clipboard": "Copy Link",
     "share_modal.email_input_label": "Send to:",
