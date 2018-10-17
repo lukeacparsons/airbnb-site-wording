@@ -2086,7 +2086,7 @@
     "homes_checkout_flow.govID.explanation for require ID": "Your host, %{host_name}, asks guests to provide Airbnb with a government ID before booking. We won't share your ID with your host, and you won't need to do this again until your ID expires.",
     "homes_checkout_flow.govID.explanation for try again": "If you want to instantly book %{host_name}'s place, you can try again, or you can send a request instead and wait up to 24 hours for %{host_name}'s response.",
     "homes_checkout_flow.govID.explanation for waiting confirming": "This may take up to 2 minutes. You'll be able to finish booking once we've verified your information.",
-    "homes_checkout_flow.header title for confirm and pay": "%{index}. Confirm and Pay",
+    "homes_checkout_flow.header title for confirm and pay": "%{index}. Confirm and pay",
     "homes_checkout_flow.header title for lux verification": "%{index}. Add Phone Number",
     "homes_checkout_flow.header title for provide id": "%{index}. Provide ID",
     "homes_checkout_flow.header title for review house rules": "%{index}. Review house rules",
