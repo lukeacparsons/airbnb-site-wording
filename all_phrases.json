@@ -3620,7 +3620,6 @@
         "trip_designer_title_2": "London Trip Designer"
     },
     "mario_luxury_messaging": {
-        "": "",
         "add_participant_label": "Add another person",
         "agent_not_available": "Sorry, the agent is currently not available. Please try again later.",
         "call_an_agent_title": "Call an agent",
@@ -3650,8 +3649,9 @@
         "input_box_placeholder": "Type a message",
         "ios.meet_our_trip_designers.1420b177": "Meet our trip designers",
         "ios.they_re_ready_to_plan.fe0ce8b3": "They\u2019re ready to plan your entire trip, from the home you stay in, to the services and experiences you want when you get there.*%{new_line}%{new_line}*Chat is only available in English.",
-        "lux_nux_description": "When you travel with Beyond, you unlock access to our global network of experts who plan every detail around you, from beginning to end.",
-        "lux_nux_title": "Every reservation comes with a team of trip designers",
+        "lux_nux_description": "Ask about a home, arrange your airport transfer, or add special touches like a personal chef or in-villa massage.",
+        "lux_nux_profile_url": "https://a0.muscache.com/4ea/air/v2/pictures/3a3af648-69e6-4237-879f-8e79ed5dcb30.jpg",
+        "lux_nux_title": "Every Airbnb Luxe reservation comes with a Trip Designer",
         "message_failed_to_send_indicator": "Message failed to send.",
         "message_thread_sidebar_title": "Conversation with Beyond",
         "new_messages_arrival_indicator": "New messages below",
