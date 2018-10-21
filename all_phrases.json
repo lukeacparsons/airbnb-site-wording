@@ -4458,6 +4458,8 @@
     "payments.alipay.invalid_account_details_national_id": "Login information invalid, please use your email or double check all information above and try again.",
     "payments.alipay.invalid_account_details_phone_number": "Login information invalid, please use your phone number or double check all information above and try again.",
     "payments.alipay.qrcode_step_desc": "Scan the QRCode with Alipay mobile app to add Alipay. Or %{link_start}input Alipay account info%{link_end}",
+    "payments.alipay.qrcode_step_desc.quickpay_v2": "Scan the QRCode with Alipay mobile app to add Alipay.",
+    "payments.alipay.qrcode_step_desc_link.quickpay_v2": "Or input Alipay account info.",
     "payments.amex_pwp.apply_amex_membership_rewards": "%{link_start}Apply Membership Rewards\u00ae points%{link_end} to this booking with an eligible American Express Card.",
     "payments.amex_pwp.you_can_cover_part": "You have enough points to cover part of the total!",
     "payments.amex_pwp.you_can_cover_total": "You have enough points to cover the total!",
