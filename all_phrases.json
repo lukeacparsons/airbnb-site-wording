@@ -3709,12 +3709,12 @@
         "input_box_placeholder": "Type a message",
         "new_messages_arrival_indicator": "New messages below",
         "open_chat_drawer_label": "Open message thread",
-        "rae_test": "Rae Test",
         "return_to_message_thread_label": "Go back to messages",
         "send_button_label": "Send",
         "send_image": "Send photo",
         "show_details_label": "Details",
         "thread_default_title": "Messages",
+        "thread_default_title_with_name": "Messages with %{user}",
         "unread_messages_divider": "UNREAD"
     },
     "mario_monorail_5axiom_profile_photo_upload": {
