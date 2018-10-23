@@ -2392,6 +2392,7 @@
     "local_context.place_detail_page.add_to_itinerary.cta_wishlist": "Save to list",
     "local_context.place_detail_page.add_to_itinerary.cta_wishlist.saved": "Saved",
     "local_context.place_detail_page.add_to_itinerary.title": "Add to Itinerary",
+    "local_context.place_detail_page.cta.itinerary.Add place to Trip Planner": "Add to your plans",
     "local_context.place_detail_page.hours.expand": "Expand",
     "local_context.place_detail_page.hours.hide": "Hide",
     "local_context.place_detail_page.hours.title": "Hours",
