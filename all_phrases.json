@@ -1630,6 +1630,8 @@
     "field_guide.welcome_name_how_can_we_help": "Welcome, %{first_name}! How can we help?",
     "fill_out_survey": "We'd love it if you filled out this quick survey.",
     "filters": "Filters",
+    "filters.Button to show Airbnb content on a large map": "Show full map",
+    "filters.Button to show Airbnb content on a map": "Show map",
     "filters.Dialog call to action text Show results": "Show results",
     "filters.Show Airbnb content in a list": "List",
     "filters.Show Airbnb content on a map": "Map",
