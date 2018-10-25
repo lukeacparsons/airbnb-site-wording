@@ -1975,6 +1975,7 @@
     "help": "Help",
     "help.Airbnb Help": "Airbnb Help",
     "help.Visit the Help Center": "Visit the Help Center",
+    "help_center.contact_flow.topic_select.ec_banner.guest.qualified": "This reservation qualifies for a full refund because of this incident affecting %{region}. If you\u2019ve confirmed with your host that your trip is affected, we can help you change or cancel the reservation now.",
     "help_center.search.Community results for query": "Community results for \u2018%{query}\u2019",
     "help_center.search.Guest articles related to query": "Guest articles related to \u2018%{query}\u2019",
     "help_center.search.Help Center results for query": "Help Center results for \u2018%{query}\u2019",
