@@ -3099,6 +3099,7 @@
         "days_until": "Your trip to %{destination} begins tomorrow. |||| %{days} days until your trip to %{destination}.",
         "default_error_message": "We\u2019re sorry. Something went wrong. This could be a temporary issue with our new travel planning tool.",
         "departure_details_label": "Departure details",
+        "featured_trip_section_title": "Your %{date_range} trip",
         "flight_arrival_title": "Arrival - %{code}",
         "flight_departure_title": "Departure - %{code}",
         "flight_detail_unknown": "Unknown",
