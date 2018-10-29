@@ -2415,6 +2415,8 @@
     "local_context.place_detail_page.show menu.title": "Show menu",
     "local_context.place_detail_page.third_party.title": "Features",
     "local_context.place_detail_page.title.About this place heading": "About this place",
+    "local_context.place_detail_page.title.Local recommendations label": "Local recommends||||Locals recommend",
+    "local_context.place_detail_page.title.Price level label": "Price range",
     "local_context.place_detail_page.title.Read more about this place label": "Read more",
     "local_context.place_detail_page.title.Tips from locals title": "%{smart_count} tip from a local||||%{smart_count} tips from locals",
     "location.address_a11y_label": "Location: %{address}",
