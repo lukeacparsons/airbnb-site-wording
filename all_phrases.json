@@ -3708,6 +3708,20 @@
         "policy details.paragraph 5 body": "A reservation is only officially canceled once the guest follows the steps on the Luxury Retreats cancellation page and receives confirmation. You\u2019ll find the cancellation page in the %{link_start}Your Trips%{link_end} section of the Luxury Retreats site and app.",
         "policy details.paragraph 5 title": "Making a cancellation official"
     },
+    "mario_luxury_retreats_dot_com_pdp": {
+        "bathrooms": "%{smart_count} bathroom||||%{smart_count} bathrooms",
+        "bedrooms": "%{smart_count} bedroom||||%{smart_count} bedrooms",
+        "beds": "%{smart_count} bed||||%{smart_count} beds",
+        "close_listing_description": "Close",
+        "guest_feedback": "Guest feedback",
+        "guests": "%{smart_count} guest||||%{smart_count} guests",
+        "pool": "Pool",
+        "read_more_about_listing": "Read more about the %{listing_name}",
+        "reviews": "%{smart_count} review||||%{smart_count} reviews",
+        "see_detailed_description": "[See detailed description]",
+        "slideshow_next": "Next",
+        "slideshow_previous": "Previous"
+    },
     "mario_messaging": {
         "close_chat_drawer_label": "Close message thread",
         "close_message_thread_details": "Close details",
