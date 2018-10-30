@@ -3723,6 +3723,7 @@
         "read_more_about_listing": "Read more about the %{listing_name}",
         "reviews": "%{smart_count} review||||%{smart_count} reviews",
         "see_detailed_description": "[See detailed description]",
+        "slideshow_close": "Close",
         "slideshow_hide_photo_list": "Hide photo list",
         "slideshow_next": "Next",
         "slideshow_previous": "Previous",
