@@ -2418,7 +2418,7 @@
     "local_context.place_detail_page.title.Local recommendations label": "Local recommends||||Locals recommend",
     "local_context.place_detail_page.title.Price level label": "Price range",
     "local_context.place_detail_page.title.Read more about this place label": "Read more",
-    "local_context.place_detail_page.title.Tips from locals title": "%{smart_count} tip from a local||||%{smart_count} tips from locals",
+    "local_context.place_detail_page.title.Tips from locals title": "Tips from locals",
     "location.address_a11y_label": "Location: %{address}",
     "location.enlarge_map": "Enlarge Map",
     "location.exact location explanation": "Exact location provided after booking",
@@ -2600,6 +2600,9 @@
         "error_messages_empty_address_street_field": "This field cannot be empty."
     },
     "mario_copy_host_less_guest_referrals": {
+        "email.reservation.guest_reservation_acceptance_confirmation.egr_non_zero_guest_host_reward": "You\u2019ll get up to %{total_credit} in credit when they complete a stay or go on an experience.",
+        "email.reservation.guest_reservation_acceptance_confirmation.egr_referral_text": "Invite people you know to Airbnb.",
+        "email.reservation.guest_reservation_acceptance_confirmation.egr_title": "Earn money toward your next trip",
         "email.reservation.guest_reservation_acceptance_confirmation.non_zero_guest_host_reward": "You\u2019ll get %{referrer_credit_guest} when they travel and %{referrer_credit_host} when they host.",
         "email.reservation.guest_reservation_acceptance_confirmation.referral_text": "Share your personal invite link to give friends %{sign_up_credit} off their first trip!",
         "email.reservation.guest_reservation_acceptance_confirmation.title": "Earn up to %{max_dollars}",
