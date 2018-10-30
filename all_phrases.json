@@ -3123,8 +3123,6 @@
         "itinerary_detail_title": "Plans",
         "itinerary_lux_free_time_action": "Add services or experiences with your concierge.",
         "itinerary_lux_free_time_message": "Nothing planned for these dates.",
-        "itinerary_mode_toggle_list": "list",
-        "itinerary_mode_toggle_map": "Toggle Map Mode",
         "legacy_reservation_link": "View legacy reservation",
         "luxury_previous_trip_title": "Past trips",
         "luxury_upcoming_trip_description": "Browse the itinerary and reservation details for your upcoming trip.",
@@ -3162,6 +3160,7 @@
         "status_offer_retry": "Pending",
         "status_pending": "Request",
         "status_timedout": "Expired",
+        "t0_other_upcoming_trips_title": "Your other plans",
         "t0_previous_trips_title": "Where you\u2019ve been",
         "timeline_previous_trip_title": "Past adventures",
         "timeline_upcoming_trips_title": "Upcoming trips",
@@ -3173,10 +3172,12 @@
         "tpane_title_restaurant": "Your Restaurant Reservation",
         "tpane_title_suggestion": "Your Suggestion",
         "trip_countdown": "About %{period} until your trip to %{destination}",
+        "trip_detail_document_title": "Your trip details - Airbnb",
         "trip_navigation_overview_tab": "Overview",
         "trip_reservation_group_page_title": "Vacation Rentals, Homes, Experiences & Places - %{title}",
         "trip_to_title": "Trip to %{title}",
-        "trip_today": "Today"
+        "trip_today": "Today",
+        "trips_list_document_title": "Your trips - Airbnb"
     },
     "mario_copy_monorail_itinerary_reservation_object": {
         "add_notes_label": "Add notes",
@@ -3719,8 +3720,11 @@
         "read_more_about_listing": "Read more about the %{listing_name}",
         "reviews": "%{smart_count} review||||%{smart_count} reviews",
         "see_detailed_description": "[See detailed description]",
+        "slideshow_hide_photo_list": "Hide photo list",
         "slideshow_next": "Next",
-        "slideshow_previous": "Previous"
+        "slideshow_previous": "Previous",
+        "slideshow_progress_indicator_caption": "%{numerator}/%{denominator}: %{caption}",
+        "slideshow_show_photo_list": "Show photo list"
     },
     "mario_messaging": {
         "close_chat_drawer_label": "Close message thread",
