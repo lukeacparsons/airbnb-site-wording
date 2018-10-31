@@ -2056,6 +2056,7 @@
     "homes_checkout_flow.business_travel.view status": "View status",
     "homes_checkout_flow.business_travel.who is traveling.choices.not_me": "No, I\u2019m booking for someone else",
     "homes_checkout_flow.business_travel.who is traveling.choices.yes": "Yes",
+    "homes_checkout_flow.business_travel.who is traveling.choices.yes.open_homes": "Yes, I\u2019m booking for myself",
     "homes_checkout_flow.business_travel.who is traveling.error message": "Please select if you\u2019re staying at the listing.",
     "homes_checkout_flow.business_travel.who is traveling.question": "Are you staying at this listing?",
     "homes_checkout_flow.cancellation_dialog": "Don\u2019t miss out! This home could get booked by another traveler. We suggest booking soon.",
@@ -3381,6 +3382,19 @@
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
         "similar listing section name": "Similar listings"
+    },
+    "mario_copy_monorail_p4_causes": {
+        "add beneficiary.add existing person": "Add an existing user",
+        "add beneficiary.add new user": "Add a new user",
+        "add beneficiary.form label for birthdate": "Birthdate - MM/DD/YYYY",
+        "add beneficiary.form label for country of citizenship": "Country of citizenship",
+        "add beneficiary.form label for email": "Email",
+        "add beneficiary.form label for first name": "First name",
+        "add beneficiary.form label for last name": "Last name",
+        "add beneficiary.introduction to creating beneficiary accounts for agencies": "Add guest details",
+        "add beneficiary.save new beneficiary account": "Add",
+        "add beneficiary.subtitle of alert for successful user creation": "You can now book on behalf of this client",
+        "add beneficiary.title of alert for successful user creation": "User created successfully"
     },
     "mario_copy_monorail_p4_homes_not_hotels": {
         "email_title": "Tips for your first trip",
