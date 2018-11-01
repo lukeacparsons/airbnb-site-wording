@@ -1031,6 +1031,7 @@
     "book.reservation.credit applied": "* %{credit_localized_title} applied",
     "book.reservation.group payment.link to explanation modal": "How this works",
     "book.reservation.includes taxes and fees": "with taxes and fees",
+    "book.reservation.remove coupon": "Remove coupon",
     "book_it": "Book It",
     "book_it.Dates": "Dates",
     "book_it.cancellation_policy": "Cancellation policy",
