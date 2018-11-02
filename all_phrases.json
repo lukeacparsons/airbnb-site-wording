@@ -2606,6 +2606,7 @@
         "error_messages_empty_address_street_field": "This field cannot be empty."
     },
     "mario_copy_host_less_guest_referrals": {
+        "email.reservation.guest_reservation_acceptance_confirmation.egr_cta": "Send invites",
         "email.reservation.guest_reservation_acceptance_confirmation.egr_non_zero_guest_host_reward": "You\u2019ll get up to %{total_credit} in credit when they complete a stay or go on an experience.",
         "email.reservation.guest_reservation_acceptance_confirmation.egr_referral_text": "Invite people you know to Airbnb.",
         "email.reservation.guest_reservation_acceptance_confirmation.egr_title": "Earn money toward your next trip",
