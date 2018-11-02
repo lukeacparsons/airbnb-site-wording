@@ -2419,6 +2419,7 @@
     "local_context.place_detail_page.see_all": "Read more",
     "local_context.place_detail_page.show menu.title": "Show menu",
     "local_context.place_detail_page.third_party.title": "Features",
+    "local_context.place_detail_page.tips.Show all tips label": "Read all %{count} tips",
     "local_context.place_detail_page.title.About this place heading": "About this place",
     "local_context.place_detail_page.title.Local recommendations label": "Local recommends||||Locals recommend",
     "local_context.place_detail_page.title.Price level label": "Price range",
