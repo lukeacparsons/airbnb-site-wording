@@ -3554,6 +3554,8 @@
     },
     "mario_hog_become_a_host_dropdown_experiment": {
         "experiences_header": "Experiences",
+        "experiences_subtitle": "Earn money leading people on activities you love",
+        "experiences_subtitle_flyout": "Earn money doing what you love",
         "homes_header": "Homes",
         "learn_about_hosting_title": "Learn about hosting",
         "list_your_place": "List your place",
