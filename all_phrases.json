@@ -3155,7 +3155,7 @@
         "pending_actions_overflow_modal_title": "Pending Actions",
         "pending_actions_overflow_num_remaining_label": "There is %{smart_count} item that needs your attention.||||There are %{smart_count} items that need your attention.",
         "pending_actions_overflow_show_all_button": "Show all",
-        "print_reservation": "Print reservation",
+        "print_reservation": "Print details",
         "review_action_skip_link": "Skip",
         "ro_close_button": "Close",
         "ro_share_button": "Share",
