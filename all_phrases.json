@@ -3183,7 +3183,7 @@
         "tpane_title_restaurant": "Your Restaurant Reservation",
         "tpane_title_suggestion": "Your Suggestion",
         "trip_countdown": "About %{period} until your trip to %{destination}",
-        "trip_detail_document_title": "Your trip details - Airbnb",
+        "trip_detail_document_title": "Your trip overview - Airbnb",
         "trip_navigation_overview_tab": "Overview",
         "trip_reservation_group_page_title": "Vacation Rentals, Homes, Experiences & Places - %{title}",
         "trip_to_title": "Trip to %{title}",
