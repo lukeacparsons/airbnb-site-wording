@@ -2345,6 +2345,8 @@
     "list_your_space.bedrooms_step.bedrooms.beddetail.help": "Sleeping arrangements help guests decide whether your space is a right fit and know what to expect once they\u2019re there.",
     "list_your_space.bedrooms_step.bedrooms.emptypreview.help": "A preview of your sleeping arrangements will appear here.",
     "list_your_space.bedrooms_step.bedrooms.help": "The number and type of beds you have determines how many guests can stay comfortably.",
+    "list_your_space.bedrooms_step.bedrooms.inline_help.1": "Check that you have enough beds to accommodate all your guests comfortably.",
+    "list_your_space.bedrooms_step.bedrooms.inline_help.2": "Sharing the types of beds in each room can help people understand the sleeping arrangements.",
     "list_your_space.bedrooms_step.beds": "%{smart_count} bed||||%{smart_count} beds",
     "list_your_space.bedrooms_step.guests": "%{smart_count} guest||||%{smart_count} guests",
     "list_your_space.bedrooms_step.how_many_bedrooms": "How many bedrooms can guests use?",
