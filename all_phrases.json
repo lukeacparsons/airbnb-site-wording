@@ -4350,6 +4350,7 @@
     "p3.about_the_home.three_owners_description": "This is %{owner1_first_name}, %{owner2_first_name} and  %{owner3_first_name}\u2019s place.",
     "p3.about_the_home.two_cohosts_description": "%{cohost1_first_name} and %{cohost2_first_name} help host.",
     "p3.about_the_home.two_owners_description": "This is %{owner1_first_name} and %{owner2_first_name}\u2019s place.",
+    "p3.accessibility.price_breakdown.total_price_is_minus_discounted_price": "minus %{discount_price}",
     "p3.add_travel_dates_to_see_more_details": "%{link_start}Add your travel dates%{link_end} to see more details.",
     "p3.amenities.family_amenities": "Family amenities",
     "p3.availability_calendar_disclaimer_about_showing_price": "Enter dates to see full pricing. Additional fees apply. Taxes may be added.",
