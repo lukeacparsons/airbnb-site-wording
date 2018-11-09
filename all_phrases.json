@@ -2616,12 +2616,12 @@
     },
     "mario_copy_host_less_guest_referrals": {
         "email.reservation.guest_reservation_acceptance_confirmation.egr_cta": "Send invites",
-        "email.reservation.guest_reservation_acceptance_confirmation.egr_non_zero_guest_host_reward": "You\u2019ll get up to %{total_credit} in credit when they complete a qualifying stay or go on a qualifying experience.",
+        "email.reservation.guest_reservation_acceptance_confirmation.egr_non_zero_guest_host_reward": "You\u2019ll get up to %{total_credit} in credit when they complete a qualifying stay and/or go on a qualifying experience.",
         "email.reservation.guest_reservation_acceptance_confirmation.egr_referral_text": "Invite people you know to Airbnb.",
         "email.reservation.guest_reservation_acceptance_confirmation.egr_title": "Earn money toward your next trip",
-        "email.reservation.guest_reservation_acceptance_confirmation.non_zero_guest_host_reward": "You\u2019ll get %{referrer_credit_guest} when they travel.",
+        "email.reservation.guest_reservation_acceptance_confirmation.non_zero_guest_host_reward": "You\u2019ll get a %{referrer_credit_guest} travel credit when they travel.",
         "email.reservation.guest_reservation_acceptance_confirmation.referral_text": "Share your personal invite link to give friends %{sign_up_credit} off their first trip!",
-        "email.reservation.guest_reservation_acceptance_confirmation.title": "Earn up to %{max_dollars}",
+        "email.reservation.guest_reservation_acceptance_confirmation.title": "Get %{referrer_credit_guest} off your next trip",
         "referrals.2.feature announcement": "Invite friends, earn travel credit! %{linebreak} Earn up to %{max_reward} for everyone you invite.",
         "referrals.post_contact_modal.invite_friends_and_earn_credit": "Now, earn travel credit for your future adventures. You can get %{credit_amount} for each friend you invite."
     },
