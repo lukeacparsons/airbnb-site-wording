@@ -2889,10 +2889,12 @@
         "government_id_not_shared_with_experiences_host": "Your ID will never be shared with a host.",
         "government_id_not_shared_with_homes_guest": "Your ID will never be shared with guests.",
         "government_id_not_shared_with_homes_host": "Your ID will never be shared with a host.",
+        "government_id_not_shared_with_other_people": "Your ID will never be shared with other people on Airbnb.",
         "selfie_not_shared_with_experiences_guest": "Your photo will never be shared with a guest.",
         "selfie_not_shared_with_experiences_host": "Your photo will never be shared with a host.",
         "selfie_not_shared_with_homes_guest": "Your photo will never be shared with guests.",
-        "selfie_not_shared_with_homes_host": "Your photo will never be shared with a host."
+        "selfie_not_shared_with_homes_host": "Your photo will never be shared with a host.",
+        "selfie_not_shared_with_other_people": "Your photo will never be shared with other people on Airbnb."
     },
     "mario_copy_monorail_account_verification_selfie_intro": {
         "device_options_prompt": "How would you like to take a photo of yourself?",
