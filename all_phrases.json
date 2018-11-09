@@ -3567,7 +3567,8 @@
         "experiences_subtitle": "Earn money leading people on activities you love",
         "experiences_subtitle_flyout": "Earn money doing what you love",
         "homes_header": "Homes",
-        "learn_about_hosting_title": "Learn about hosting",
+        "learn_about_hosting_flyout_title": "Learn about home hosting",
+        "learn_about_hosting_title": "Learn more about hosting",
         "list_your_place": "List your place",
         "start_hosting": "Start hosting"
     },
