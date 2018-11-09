@@ -2619,7 +2619,7 @@
         "email.reservation.guest_reservation_acceptance_confirmation.egr_non_zero_guest_host_reward": "You\u2019ll get up to %{total_credit} in credit when they complete a qualifying stay or go on a qualifying experience.",
         "email.reservation.guest_reservation_acceptance_confirmation.egr_referral_text": "Invite people you know to Airbnb.",
         "email.reservation.guest_reservation_acceptance_confirmation.egr_title": "Earn money toward your next trip",
-        "email.reservation.guest_reservation_acceptance_confirmation.non_zero_guest_host_reward": "You\u2019ll get %{referrer_credit_guest} when they travel and %{referrer_credit_host} when they host.",
+        "email.reservation.guest_reservation_acceptance_confirmation.non_zero_guest_host_reward": "You\u2019ll get %{referrer_credit_guest} when they travel.",
         "email.reservation.guest_reservation_acceptance_confirmation.referral_text": "Share your personal invite link to give friends %{sign_up_credit} off their first trip!",
         "email.reservation.guest_reservation_acceptance_confirmation.title": "Earn up to %{max_dollars}",
         "referrals.2.feature announcement": "Invite friends, earn travel credit! %{linebreak} Earn up to %{max_reward} for everyone you invite.",
