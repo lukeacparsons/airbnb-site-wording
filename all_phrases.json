@@ -3267,7 +3267,7 @@
         "manage_guests_status_accepted": "Accepted",
         "manage_guests_status_invited": "Invite sent",
         "manage_guests_title": "Manage guests",
-        "manage_guests_title_count": "%{count} guests",
+        "manage_guests_title_count": "%{smart_count} guest||||%{smart_count} guests",
         "manage_guests_update_count": "Need to change the number of guests on this reservation?",
         "message_host_label": "Message Host",
         "month_day_time": "%{localized_date}, %{localized_time}",
