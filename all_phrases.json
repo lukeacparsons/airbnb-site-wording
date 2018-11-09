@@ -150,6 +150,8 @@
     "about_the_host.host_interaction_title": "Interaction with guests",
     "about_this_listing.read_all_button_text": "Read more about the space",
     "access": "Guest access",
+    "accessibility label on save button explaining that user can save this listing": "Save this listing.",
+    "accessibility label on save button explaining that user can unsave this listing or add it to another list": "This listing is saved. Unsave or add to another list.",
     "accessibility.pagination_number.selected_page_link": "Page %{pageNumber}, current page",
     "accessibility.pagination_number.unselected_page_link": "Page %{pageNumber}",
     "accessibility.pagination_text.selected_page_link": "Page %{pageText}, current page",
@@ -3395,7 +3397,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
