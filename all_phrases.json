@@ -3395,7 +3395,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -3567,8 +3567,7 @@
         "experiences_subtitle": "Earn money leading people on activities you love",
         "experiences_subtitle_flyout": "Earn money doing what you love",
         "homes_header": "Homes",
-        "learn_about_hosting_flyout_title": "Learn about home hosting",
-        "learn_about_hosting_title": "Learn more about hosting",
+        "learn_about_hosting_title": "Learn about hosting your home",
         "list_your_place": "List your place",
         "start_hosting": "Start hosting"
     },
