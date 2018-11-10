@@ -2119,9 +2119,11 @@
     "homes_checkout_flow.sidebar footer see details": "See details",
     "homes_checkout_flow.sidebar footer title": "for %{smart_count} night ||||for %{smart_count} nights",
     "homes_checkout_flow.sidebar hosted by": "Hosted by %{host_name}",
+    "homes_checkout_flow.sidebar house rules title": "House Rules",
     "homes_checkout_flow.sidebar listing image description": "Listing cover image",
     "homes_checkout_flow.sidebar nights in city": "%{smart_count} night in %{city} ||||%{smart_count} nights in %{city}",
     "homes_checkout_flow.sidebar room type in city": "%{room_type} in %{city}",
+    "homes_checkout_flow.sidebar see all for house rules modal": "See all",
     "homes_checkout_flow.third_party_booking.suggested_message.clear_suggested_message": "Clear suggested message",
     "homes_checkout_flow.third_party_booking.suggested_message.placeholder": "Meeting with clients? Attending a conference?",
     "homes_checkout_flow.third_party_booking.suggested_message.title": "Introduce %{traveler_first_name} to %{host_first_name}, the host:",
@@ -3397,7 +3399,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
