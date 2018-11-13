@@ -3401,7 +3401,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -3576,6 +3576,13 @@
         "learn_about_hosting_title": "Learn about hosting your home",
         "list_your_place": "List your place",
         "start_hosting": "Start hosting"
+    },
+    "mario_hog_hlp_entrypoints": {
+        "become_a_host_default_title": "Host a home",
+        "become_a_host_title_with_experience_host_menu": "Add listing",
+        "become_a_host_wmpw_subtitle_generic": "Find out how much you could earn.",
+        "become_a_host_wmpw_subtitle_month": "Earn up to %{income} a month hosting in %{city}.",
+        "become_a_host_wmpw_subtitle_month_bold": "Earn up to %{bold_start}%{income} a month%{bold_end}"
     },
     "mario_luxury_base": {
         "chat_brief_button_chat_with_concierge": "Chat",
