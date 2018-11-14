@@ -3402,7 +3402,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -3760,6 +3760,7 @@
         "policy details.paragraph 5 title": "Making a cancellation official"
     },
     "mario_luxury_retreats_dot_com_pdp": {
+        "add_photos": "Add photos",
         "bathrooms": "%{smart_count} bathroom||||%{smart_count} bathrooms",
         "bedrooms": "%{smart_count} bedroom||||%{smart_count} bedrooms",
         "beds": "%{smart_count} bed||||%{smart_count} beds",
@@ -3775,7 +3776,8 @@
         "slideshow_next": "Next",
         "slideshow_previous": "Previous",
         "slideshow_progress_indicator_caption": "%{numerator}/%{denominator}: %{caption}",
-        "slideshow_show_photo_list": "Show photo list"
+        "slideshow_show_photo_list": "Show photo list",
+        "view_photos": "View Photos"
     },
     "mario_messaging": {
         "close_chat_drawer_label": "Close message thread",
