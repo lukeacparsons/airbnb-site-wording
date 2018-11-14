@@ -2432,6 +2432,7 @@
     "local_context.place_detail_page.tips.Show all tips label": "Read all %{count} tips",
     "local_context.place_detail_page.title.About this place heading": "About this place",
     "local_context.place_detail_page.title.Local recommendations label": "Local recommends||||Locals recommend",
+    "local_context.place_detail_page.title.Local recommendations label with count": "%{smart_count} local recommends||||%{smart_count} locals recommend",
     "local_context.place_detail_page.title.Price level label": "Price range",
     "local_context.place_detail_page.title.Read less about this place label": "Collapse",
     "local_context.place_detail_page.title.Read more about this place label": "Read more",
@@ -3402,7 +3403,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
