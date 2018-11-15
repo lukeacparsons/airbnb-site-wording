@@ -3403,7 +3403,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -3798,7 +3798,10 @@
         "unread_messages_divider": "UNREAD"
     },
     "mario_monorail_5axiom_profile_photo_upload": {
-        "CTA_skip": "I\u2019ll do this later"
+        "CTA_skip": "I\u2019ll do this later",
+        "listing_required_profile_photo_upload_subtitle": "%{host_first_name} requires all guests to have a profile photo. They won\u2019t be able to see your photo until your booking is confirmed.",
+        "listing_required_profile_photo_upload_subtitle_2": "Make sure your photo shows your face and doesn\u2019t include any personal or sensitive info.",
+        "listing_required_profile_photo_upload_title": "Add a profile photo"
     },
     "mario_monorail_5axiom_welcome": {
         "CTA": "Next - %{smart_count} step left||||Next - %{smart_count} steps left",
