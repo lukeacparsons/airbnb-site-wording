@@ -2408,6 +2408,9 @@
     "local_context.place_detail_page.add_to_itinerary.cta_wishlist.saved": "Saved",
     "local_context.place_detail_page.add_to_itinerary.title": "Add to Itinerary",
     "local_context.place_detail_page.cta.itinerary.Add place to Trip Planner": "Add to your plans",
+    "local_context.place_detail_page.error.Page error go back cta": "Go back to the homepage",
+    "local_context.place_detail_page.error.Page error title": "There was an error loading the page",
+    "local_context.place_detail_page.error.Page not found error": "We can\u02bct seem to find the place you\u02bcre looking for",
     "local_context.place_detail_page.form.Make a Reservation Heading": "Make a reservation",
     "local_context.place_detail_page.hours.Expand Label": "Show hours",
     "local_context.place_detail_page.hours.Hide Label": "Hide hours",
@@ -3418,21 +3421,6 @@
         "add beneficiary.subtitle of alert for successful user creation": "You can now book on behalf of this client",
         "add beneficiary.title of alert for successful user creation": "User created successfully"
     },
-    "mario_copy_monorail_p4_homes_not_hotels": {
-        "email_title": "Tips for your first trip",
-        "line0": "Treat hosts\u2019 homes with respect - real people are sharing their homes.",
-        "line1": "Understand each home is unique - spaces and amenities differ across homes.",
-        "line2": "Be communicative with your host - stay in touch about check-in.",
-        "line3": "Each place is unique, providing different spaces and amenities.",
-        "line4": "Respect your host\u2019s place - you may be staying in their home!",
-        "line5": "Stay in touch with your host before and during your stay.",
-        "line6": "Each place is unique and may provide different spaces and amenities.",
-        "line7": "On your trip, respect your host\u2019s space - you may be staying in their home!",
-        "line8": "Sharing your arrival details with your host can help them prepare for your check-in.",
-        "title": "Since it\u2019s your first trip on Airbnb:",
-        "title1": "Since it\u2019s your first Airbnb trip, remember:",
-        "title2": "A few tips for your first Airbnb trip:"
-    },
     "mario_copy_monorail_phone_verification_on_p4": {
         "feedback_cta_link_text": "Give feedback.",
         "feedback_do_not_understand_error": "do not understand error",
@@ -3763,7 +3751,7 @@
     "mario_luxury_retreats_dot_com_pdp": {
         "add_photos": "Add photos",
         "bathrooms": "%{smart_count} bathroom||||%{smart_count} bathrooms",
-        "bedrooms": "%{smart_count} bedroom||||%{smart_count} bedrooms",
+        "bedrooms": "%{smart_count} bedroom (%{ensuite} ensuite)||||%{smart_count} bedrooms (%{ensuite} ensuite)",
         "beds": "%{smart_count} bed||||%{smart_count} beds",
         "close_listing_description": "Close",
         "guest_feedback": "Guest feedback",
