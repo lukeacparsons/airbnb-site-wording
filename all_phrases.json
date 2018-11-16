@@ -2464,6 +2464,7 @@
     "local_context.place_detail_page.title.Local recommendations label": "Local recommends||||Locals recommend",
     "local_context.place_detail_page.title.Local recommendations label with count": "%{smart_count} local recommends||||%{smart_count} locals recommend",
     "local_context.place_detail_page.title.Price level label": "Price range",
+    "local_context.place_detail_page.title.Read less about this place hide label": "Hide",
     "local_context.place_detail_page.title.Read less about this place label": "Collapse",
     "local_context.place_detail_page.title.Read more about this place label": "Read more",
     "local_context.place_detail_page.title.Tips from locals title": "Tips from locals",
