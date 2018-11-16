@@ -3434,7 +3434,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -3781,14 +3781,19 @@
         "bathrooms": "%{smart_count} bathroom||||%{smart_count} bathrooms",
         "bedrooms": "%{smart_count} bedroom (%{ensuite} ensuite)||||%{smart_count} bedrooms (%{ensuite} ensuite)",
         "beds": "%{smart_count} bed||||%{smart_count} beds",
+        "cancellation": "Cancellation",
+        "cancellation_show_details": "Show details",
         "close_listing_description": "Close",
         "guest_feedback": "Guest feedback",
         "guests": "%{smart_count} guest||||%{smart_count} guests",
+        "house_rules": "House rules",
+        "policies_and_requirements": "Policies and requirements",
         "pool": "Pool",
         "read_more_about_listing": "Read more about the %{listing_name}",
         "reviews": "%{smart_count} review||||%{smart_count} reviews",
         "security_deposit": "A Host requires a Security Deposit of %{securityDepositFormatted} to book this listing. The Guest is responsible for the amount of the Security Deposit, but it will not be charged unless the host makes a claim.",
         "see_detailed_description": "[See detailed description]",
+        "see_more_photos": "See more photos",
         "slideshow_close": "Close",
         "slideshow_hide_photo_list": "Hide photo list",
         "slideshow_next": "Next",
