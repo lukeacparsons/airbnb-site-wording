@@ -3434,7 +3434,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -3787,7 +3787,7 @@
         "pool": "Pool",
         "read_more_about_listing": "Read more about the %{listing_name}",
         "reviews": "%{smart_count} review||||%{smart_count} reviews",
-        "security_deposit": "A Host requires a Security Deposit of ${securityDepositFormatted} to book this listing. The Guest is responsible for the amount of the Security Deposit, but it will not be charged unless the host makes a claim.",
+        "security_deposit": "A Host requires a Security Deposit of %{securityDepositFormatted} to book this listing. The Guest is responsible for the amount of the Security Deposit, but it will not be charged unless the host makes a claim.",
         "see_detailed_description": "[See detailed description]",
         "slideshow_close": "Close",
         "slideshow_hide_photo_list": "Hide photo list",
@@ -4902,6 +4902,7 @@
     "referrals.available_travel_credit_and_min_trip_v2": "Up to %{tag_start}%{credit_amount} travel credit%{tag_end} will automatically be applied to your next booking of %{min_trip_cost} or more. %{link_start}Invite friends to earn more!%{link_end}",
     "referrals.available_travel_credit_and_no_min_trip": "Up to %{tag_start}%{credit_amount} travel credit%{tag_end} will automatically be applied to your next booking.",
     "referrals.available_travel_credit_and_no_min_trip_v2": "Up to %{tag_start}%{credit_amount} travel credit%{tag_end} will automatically be applied to your next booking. %{link_start}Invite friends to earn more!%{link_end}",
+    "referrals.available_travel_credit_generic": "You have up to %{tag_start}%{credit_amount}%{tag_end} to use toward your next booking. %{link_start}Invite people to earn more%{link_end}",
     "referrals.coupon_expires_at": "Exp. %{expiration_date}",
     "referrals.invite friends": "Invite Friends",
     "referrals.post_contact_modal.invite_friends_and_earn_credit": "Now, earn travel credit for your future adventures. You can get %{credit_amount} for each friend you invite.",
