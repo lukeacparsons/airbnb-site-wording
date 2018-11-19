@@ -1217,7 +1217,7 @@
     "china.signup.fields.description.Birthdate": "Airbnb will not share your birthday with any hosts or guests. Rest assured.",
     "china.signup.fields.description.Receive SMS": "I\u2019d like to receive coupons, promotions, surveys, and updates about Airbnb and its partners, via SMS and phone.",
     "china.signup.fields.description.Receive email": "I\u2019d like to receive coupons, promotions, surveys, and updates about Airbnb and its partners, via email.",
-    "china.signup.fields.email_description": "Please provide your email address so that we can send the booking information",
+    "china.signup.fields.email_intro_to_describe_what_it_used_for": "Please provide your email address so that we can send the booking information",
     "china.signup.fields.placeholder.Given name": "Given name",
     "china.signup.fields.placeholder.Password": "Set password",
     "china.signup.fields.placeholder.Surname": "Surname",
