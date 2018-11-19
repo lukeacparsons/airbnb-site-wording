@@ -1629,7 +1629,7 @@
     "field_guide.article_page.link.read_this_article_in_the_help_center.opens_new_tab": "Read this article in the Help Center",
     "field_guide.articles_result_title": "Articles related to \"%{query}\"",
     "field_guide.cant_find_what_youre_looking_for": "Can\u2019t find what you're looking for?",
-    "field_guide.community_center_card.description": "Learn from other hosts.",
+    "field_guide.community_center_card.description": "Learn from other Airbnb hosts.",
     "field_guide.error.no_load_topic": "Suggested help articles unavailable\u2014visit our %{link_start}Help Center%{link_end} instead.",
     "field_guide.header.recommended help title text": "Recommended help",
     "field_guide.home.error.recommended_help_content_unavailable": "Recommended help unavailable\u2014visit our %{link_start}Help Center%{link_end} instead.",
