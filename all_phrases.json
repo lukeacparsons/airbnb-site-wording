@@ -3435,7 +3435,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -4826,6 +4826,7 @@
     "quick_pay.shared text for continuing flow": "Continue",
     "quick_pay.subtitle for credit card form error": "Please check your payment details.",
     "quick_pay.subtitle for price fetch error message": "We were unable to retrieve the latest price with the options you have selected.",
+    "quick_pay.tap or click currency": "Tap or click on the currency below and choose another option",
     "quick_pay.text for Airbnb credit checkbox": "Apply %{amountString} gift credit",
     "quick_pay.text for add this credit card button and modal title": "Add Card",
     "quick_pay.text for add this credit card button version 2": "Add card",
@@ -4866,6 +4867,7 @@
     "quick_pay.text to apply coupon label": "Apply one of your coupons",
     "quick_pay.text to confirm for adding a credit card in the modal": "Confirm",
     "quick_pay.text to start applying a coupon": "Apply coupon",
+    "quick_pay.the selected currency is no longer supported": "This currency is no longer supported",
     "quick_pay.title for booking error message": "Oops, we're unable to complete this booking",
     "quick_pay.title for generic error message": "Let\u2019s try that again",
     "quick_pay.title for payment error message": "Oops, we're unable to complete this payment",
