@@ -3435,7 +3435,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -3785,6 +3785,11 @@
         "cancellation": "Cancellation",
         "cancellation_show_details": "Show details",
         "close_listing_description": "Close",
+        "education_header_1": "Professionally managed and inspected",
+        "education_header_2": "A trip on which everything can be arranged",
+        "education_text_1": "Each luxury home is evaluated against over 300 design and quality standards and inspected before you arrive to be sure everything is perfect.",
+        "education_text_2": "Have an expert take care of all the details. From prebooking questions to customizing your trip with additional services and experiences, just ask your personal Villa Specialist.",
+        "education_title": "Unmatched quality paired with world-class service",
         "guest_feedback": "Guest feedback",
         "guests": "%{smart_count} guest||||%{smart_count} guests",
         "house_rules": "House rules",
