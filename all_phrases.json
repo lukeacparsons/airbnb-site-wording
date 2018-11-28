@@ -3438,7 +3438,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -4287,6 +4287,8 @@
     "multi_messaging.dont_stop_now_keep_contacting": "Don't stop now &mdash; keep contacting other listings.",
     "must_log_in": "You must log in to continue",
     "name": "User",
+    "naver_icon.shared.NaverBlog": "Naver Blog",
+    "naver_icon.shared.NaverPost": "Naver Post",
     "neighborhood_features_title": "Features",
     "neighborhood_overview": "The neighborhood",
     "neighborhood_singular": "Neighborhood",
