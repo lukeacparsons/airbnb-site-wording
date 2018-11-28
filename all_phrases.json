@@ -3438,7 +3438,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -3796,6 +3796,9 @@
         "guest_feedback": "Guest feedback",
         "guests": "%{smart_count} guest||||%{smart_count} guests",
         "house_rules": "House rules",
+        "mini_cal_available": "Available \u202f\u2022\u202f %{minPrice} - %{maxPrice} / night",
+        "mini_cal_not_available": "Not available",
+        "mini_cal_title": "Pricing and availibility",
         "policies_and_requirements": "Policies and requirements",
         "pool": "Pool",
         "read_more_about_listing": "Read more about the %{listing_name}",
