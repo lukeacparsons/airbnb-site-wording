@@ -3803,6 +3803,7 @@
         "house_rules": "House rules",
         "mini_cal_available": "Available \u202f\u2022\u202f %{minPrice} - %{maxPrice} / night",
         "mini_cal_not_available": "Not available",
+        "mini_cal_subtitle": "Minimum stay varies. Choose dates for a total trip price, including additional fees and taxes.",
         "mini_cal_title": "Pricing and availibility",
         "policies_and_requirements": "Policies and requirements",
         "pool": "Pool",
