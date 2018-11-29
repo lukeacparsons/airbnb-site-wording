@@ -1660,8 +1660,6 @@
     "field_guide.trip_card.header.get_help_with_this_trip.for_guest": "Get help with this trip",
     "field_guide.trip_card.link.go_to_all_reservations": "Go to all reservations",
     "field_guide.trip_card.link.go_to_all_trips": "Go to all trips",
-    "field_guide.trip_card.title.your_experience_reservation": "Your experience reservation",
-    "field_guide.trip_card.title.your_home_reservation": "Your home reservation",
     "field_guide.welcome_how_can_we_help": "Welcome! How can we help?",
     "field_guide.welcome_name_how_can_we_help": "Welcome, %{first_name}! How can we help?",
     "fill_out_survey": "We'd love it if you filled out this quick survey.",
@@ -3444,7 +3442,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
