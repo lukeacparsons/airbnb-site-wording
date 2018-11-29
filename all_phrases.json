@@ -6,6 +6,8 @@
     "About this listing": "About this listing",
     "About us": "About us",
     "Accessibility": "Accessibility",
+    "Accessibility label for a button in Quick Pay v2 that, when clicked, decrements the number of copayers on a group payment reservation": "Remove a copayer",
+    "Accessibility label for a button in Quick Pay v2 that, when clicked, increments the number of copayers on a group payment reservation": "Add a copayer",
     "Accessibility label for checkbox that saves a place": "Save this Place",
     "Accessibility label for checkbox that saves an experience": "Save this Experience",
     "Accessibility label for checkbox that unsaves an experience": "Unsave this Experience",
