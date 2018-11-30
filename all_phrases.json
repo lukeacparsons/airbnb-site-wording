@@ -8,7 +8,7 @@
     "About us": "About us",
     "Accessibility": "Accessibility",
     "Accessibility label for a button in Quick Pay v2 that, when clicked, decrements the number of copayers on a group payment reservation": "Remove a copayer",
-    "Accessibility label for a button in Quick Pay v2 that, when clicked, increments the number of copayers on a group payment reservation": "Add a copayer",
+    "Accessibility label for a button that, when clicked, increments the number of copayers on a group payment reservation": "Add a copayer",
     "Accessibility label for checkbox that saves a place": "Save this Place",
     "Accessibility label for checkbox that saves an experience": "Save this Experience",
     "Accessibility label for checkbox that unsaves an experience": "Unsave this Experience",
@@ -3450,7 +3450,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
