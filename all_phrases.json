@@ -2,6 +2,7 @@
     "(not available) as in no reviewer": "(not available)",
     "+ More (as in, to view more content)": "+ More",
     "+ See all rules (as in, to view more house rules)": "+ See all rules",
+    "A generic error message title for API errors. Always renders with a more descriptive subtitle": "Let\u2019s try that again",
     "About": "About",
     "About this listing": "About this listing",
     "About us": "About us",
@@ -18,6 +19,8 @@
     "Add new listings": "Add a new listing",
     "Airbnbmag": "Airbnbmag",
     "Amenities": "Amenities",
+    "An error message title indicating to the user that the currency that they've selected  is no longer supported on the platform": "This currency is no longer supported",
+    "An error subtitle requesting that the user click on the currency selector to change their currency": "Tap or click on the currency below and choose another option",
     "B&Bs in city": "B&Bs in %{city}",
     "Back": "Back",
     "Bed and Breakfasts in city": "Bed and Breakfasts in %{city}",
@@ -3447,7 +3450,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -4885,7 +4888,6 @@
     "quick_pay.shared text for continuing flow": "Continue",
     "quick_pay.subtitle for credit card form error": "Please check your payment details.",
     "quick_pay.subtitle for price fetch error message": "We were unable to retrieve the latest price with the options you have selected.",
-    "quick_pay.tap or click currency": "Tap or click on the currency below and choose another option",
     "quick_pay.text for Airbnb credit checkbox": "Apply %{amountString} gift credit",
     "quick_pay.text for add this credit card button and modal title": "Add Card",
     "quick_pay.text for add this credit card button version 2": "Add card",
@@ -4928,9 +4930,7 @@
     "quick_pay.text to apply coupon label": "Apply one of your coupons",
     "quick_pay.text to confirm for adding a credit card in the modal": "Confirm",
     "quick_pay.text to start applying a coupon": "Apply coupon",
-    "quick_pay.the selected currency is no longer supported": "This currency is no longer supported",
     "quick_pay.title for booking error message": "Oops, we're unable to complete this booking",
-    "quick_pay.title for generic error message": "Let\u2019s try that again",
     "quick_pay.title for payment error message": "Oops, we're unable to complete this payment",
     "quick_pay.title for price fetch error message": "Oops, something went wrong",
     "quick_pay.title text for error prompt to continue": "Do you want to continue?",
