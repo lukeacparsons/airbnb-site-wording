@@ -3338,6 +3338,8 @@
         "restaurant_cancel_success": "Your restaurant reservation at %{restaurantName} was cancelled successfully.",
         "ro_loading_error_message": "Something went wrong!",
         "ro_loading_error_title": "Error",
+        "security_deposit_faq_link_label": "Learn more",
+        "security_deposit_row_title": "Security Deposit",
         "superhost_badge_label": "%{host_name} is a superhost.",
         "third_party_booking_alteration_text": "Want to change this reservation? You\u2019ll need to ask %{booker} to contact the host directly.",
         "trip_notes_title": "Trip Notes",
