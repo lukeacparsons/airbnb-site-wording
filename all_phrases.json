@@ -3222,6 +3222,7 @@
         "ro_close_button": "Close",
         "ro_share_button": "Share",
         "share_trip": "Share",
+        "show_trip_details_cta": "Show trip details",
         "status_accepted": "Confirmed",
         "status_awaiting_group_payment": "Awaiting group payment",
         "status_awaiting_payment": "Awaiting payment",
