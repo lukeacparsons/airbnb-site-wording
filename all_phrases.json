@@ -2058,6 +2058,7 @@
     "homes_checkout_flow.agree for continue button": "Agree",
     "homes_checkout_flow.agree_to_currency_mismatch": "Okay",
     "homes_checkout_flow.booking_error.call_to_action.label.background_check_pending": "Change your dates",
+    "homes_checkout_flow.booking_error.subtitle.background_check_pending": "Try making a reservation for a future date.",
     "homes_checkout_flow.booking_error.title.background_check_pending": "Sorry\u2014it\u2019s too late to book this home",
     "homes_checkout_flow.business_travel.employee search.remove": "Remove",
     "homes_checkout_flow.business_travel.employee_search.add.email": "Email",
@@ -3453,7 +3454,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -5733,7 +5734,7 @@
     "user_profile.header.edit_profile_button": "Edit profile",
     "user_profile.header.traveling_since": "Joined in %{year}",
     "user_profile.header.user_name": "Hi, I\u2019m %{smartName}",
-    "user_profile.hosted_experiences.title": "%{smartName}\u2019s experiences",
+    "user_profile.hosted_experiences.title": "%{smartName}\u2019s experience||||%{smartName}\u2019s experiences",
     "user_profile.introduction.bio.connected_accounts": "Connected account||||Connected accounts",
     "user_profile.introduction.bio.languages": "Speaks %{languages}",
     "user_profile.introduction.bio.location": "Lives in %{location}",
@@ -5741,7 +5742,7 @@
     "user_profile.introduction.learn_more.cta": "Learn more",
     "user_profile.introduction.quotation_mark": "\u201c",
     "user_profile.introduction.title": "About",
-    "user_profile.managed_listings.title": "%{smart_name}\u2019s listings",
+    "user_profile.managed_listings.title": "%{smart_name}\u2019s listing||||%{smart_name}\u2019s listings",
     "user_profile.managed_listings.view_all_listings_link": "View all %{listing_count} listings",
     "user_profile.new_guest_section.body": "Let the Airbnb community know about %{smartName} with a first review. Reviews can only be left by past guests or hosts.",
     "user_profile.new_guest_section.title": "Be the first to welcome %{smartName}!",
