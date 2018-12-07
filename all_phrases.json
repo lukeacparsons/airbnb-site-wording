@@ -340,7 +340,7 @@
     "account_verification.provide_your_details_again": "Provide your details again",
     "account_verification.provide_your_government_id_to_book": "Provide your ID to book",
     "account_verification.provide_your_id_again": "Provide your ID again",
-    "account_verification.put_a_face_to_your_name": "Put a face to your name! We\u2019ll add this to your profile, and share it with future hosts and guests.",
+    "account_verification.put_a_face_to_your_name": "Put a face to your name! We\u2019ll add this to your profile, and share it with future hosts and guests. Be sure to use a photo that clearly shows your face and doesn\u2019t include any personal or sensitive info you\u2019d rather not have hosts or guests see.",
     "account_verification.read_how_it_works": "Read how it works",
     "account_verification.refugee_or_alien_document": "Refugee/alien document",
     "account_verification.residence_permit": "Residence permit",
@@ -3454,7 +3454,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
