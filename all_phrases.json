@@ -1986,6 +1986,23 @@
     "guidebook.sub_category_page.everything_else.title": "Everything Else in %{top_category} in %{location}",
     "guidebook.sub_category_page.poi_card_collection.title": "Explore %{total_place_phrase} recommended by %{smart_count} host||||\n            Explore %{total_place_phrase} recommended by %{smart_count} hosts",
     "guidebook.sub_category_page.title": "Best %{sub_category} in %{location}",
+    "guided_search_web.month, day, year date placeholder": "mm/dd/yyyy",
+    "guided_search_web.placeholder text for Explore query input": "Surfing in Los Angeles",
+    "guided_search_web.placeholder text for guest count input": "1 guest",
+    "guided_search_web.placeholder text for location input": "Paris, France",
+    "guided_search_web.tab title for Experiences": "Experiences",
+    "guided_search_web.tab title for Explore": "Explore",
+    "guided_search_web.tab title for Homes": "Homes",
+    "guided_search_web.tab title for Restaurants": "Restaurants",
+    "guided_search_web.title above search bar": "Plan your next trip",
+    "guided_search_web.title for checkin date input": "CHECK IN",
+    "guided_search_web.title for checkout date input": "CHECK OUT",
+    "guided_search_web.title for guest count input": "GUESTS",
+    "guided_search_web.title for single dates input": "DATES",
+    "guided_search_web.title text for location input in the search bar": "CITY, ADDRESS, LANDMARK",
+    "guided_search_web.title text for query input in the Experiences search bar": "CITY OR ACTIVITY",
+    "guided_search_web.title text for query input in the Explore search bar": "CITY, ACTIVITY, OR CUISINE",
+    "guided_search_web.title text for query input in the Restaurants search bar": "CITY",
     "have_a_moment": "Have a moment?",
     "hc_search_help_articles": "Search help articles",
     "header.Continue searching in (x)": "Continue searching in %{location}",
@@ -3456,7 +3473,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
