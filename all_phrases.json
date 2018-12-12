@@ -1285,6 +1285,18 @@
     "china_p2_card.tag.refundable": "Free cancellation in limited time",
     "china_p2_card.tag.refundable.days": "Cancel up to %{smart_count} day before your trip and get a full refund, including service fees.||||Cancel up to %{smart_count} days before your trip and get a full refund, including service fees.",
     "china_p2_card.tag.refundable.hours": "Cancel up to %{smart_count} hour before your trip and get a full refund, including service fees.||||Cancel up to %{smart_count} hours before your trip and get a full refund, including service fees.",
+    "china_rtb_first_message_domestic_default_text_1": "Hello %{host_name}, my name is %{guest_name}. I am very interested in your listing and feel it will be great for my trip. Hope to have the opportunity to stay during this time. Thank you! ^ ^",
+    "china_rtb_first_message_domestic_default_text_2": "Hello %{host_name}, my name is %{guest_name}. I really like your listing and look forward to staying during this time.",
+    "china_rtb_first_message_domestic_default_text_3": "Hello %{host_name}, my name is %{guest_name}. I saw your listing on Airbnb and really like it. Look forward to staying during this time. Thank you! :)",
+    "china_rtb_first_message_outbound_default_text_1": "Hi %{host_name}, I\u2019m an Airbnb guest from %{guest_location}. I really like your listing and look forward to staying during this time.",
+    "china_rtb_first_message_outbound_default_text_2": "Hi %{host_name}, I\u2019m travelling to %{listing_location} from %{guest_location}. I saw your listing on Airbnb and really like it. Look forward to staying during this time. Thank you! :)",
+    "china_rtb_first_message_outbound_default_text_3": "Hello %{host_name}, I am very interested in your listing and feel it will be great for my trip. Hope to have the opportunity to stay during this time. Thank you! ^ ^",
+    "china_rtb_first_message_outbound_default_text_4": "Hi %{host_name}, I\u2019m an Airbnb guest from %{guest_location}.I saw your listing on Airbnb and really like it. Look forward to staying during this time. Thank you! :)",
+    "china_rtb_first_message_outbound_default_text_5": "Hi %{host_name}, I\u2019m an Airbnb guest from %{guest_location}. I am very interested in your listing and feel it will be great for my trip. Hope to have the opportunity to stay during this time. Thank you! ^ ^",
+    "china_rtb_first_message_outbound_default_text_6": "Hi %{host_name}, I\u2019m travelling to %{listing_location} from %{guest_location}. I really like your listing and look forward to staying during this time.",
+    "china_rtb_first_message_outbound_default_text_7": "Hi %{host_name}, I\u2019m travelling to %{listing_location} from %{guest_location}. I am very interested in your listing and feel it will be great for my trip. Hope to have the opportunity to stay during this time. Thank you! ^ ^",
+    "china_rtb_first_message_outbound_default_text_8": "Hello %{host_name}, I really like your listing and look forward to staying during this time.",
+    "china_rtb_first_message_outbound_default_text_9": "Hello %{host_name}, I saw your listing on Airbnb and really like it. Look forward to staying during this time. Thank you! :)",
     "choose_currency": "Choose Currency",
     "choose_language": "Choose Language",
     "choose_verification_header": "Choose to verify via:",
@@ -3473,7 +3485,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
