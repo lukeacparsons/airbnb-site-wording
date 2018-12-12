@@ -4077,6 +4077,7 @@
     "ml.booking_pane.how guest book snooze modal.turn on instant book": "Turn on Instant Book",
     "ml.booking_pane.how guest book snooze modal.when instant book is paused": "While Instant Book is paused, guests can only book by sending a reservation request. You\u2019ll need to respond to each request within 24 hours.",
     "ml.booking_pane.label.setting not set": "Not set",
+    "ml.booking_pane.polices.cancellation policies label": "Cancellation policies",
     "ml.booking_pane.polices.cancellation policy label": "Cancellation policy",
     "ml.booking_pane.polices.check in out have been moved": "Your check-in and checkout settings have moved to your %{link_start}availability%{link_end} tab.",
     "ml.booking_pane.polices.checkout time label": "Checkout time",
