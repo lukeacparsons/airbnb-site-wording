@@ -3707,7 +3707,8 @@
         "header_log_out": "Log Out",
         "header_nav_menu_a11y": "Please click for more navigation options",
         "header_profile": "Profile",
-        "header_trips": "Trips"
+        "header_trips": "Trips",
+        "show_all": "Show All"
     },
     "mario_luxury_cancellation_policy_page": {
         "additional_terms.paragraph1": "Luxury Retreats will refund any taxes we collect that are related to amounts refunded to guests, and will submit any taxes due on the non-refundable portion of canceled reservations to the appropriate tax authority.",
