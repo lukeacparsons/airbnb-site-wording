@@ -3488,7 +3488,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -5114,7 +5114,6 @@
     "room_type_0": "Entire home/apt",
     "room_type_1": "Private room",
     "room_type_2": "Shared room",
-    "rooms.Check availability [of a listing]": "Check Availability",
     "rooms.Verified Photo": "Verified Photo",
     "rooms.default_share_text": "Check out this awesome listing on Airbnb: %{listing_title}",
     "rooms.no_photo": "This listing has no photos",
