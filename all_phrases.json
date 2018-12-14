@@ -752,6 +752,8 @@
     "airlock.identity_info_confirmation.response.yes_my_birthday_is_correct": "Yes, this is correct",
     "airlock.identity_info_confirmation.response.you_are_X_years_old": "You\u2019ve indicated you are %{emphasis_start}%{smart_count} year old%{emphasis_end}. ||||You\u2019ve indicated you are %{emphasis_start}%{smart_count} years old%{emphasis_end}.",
     "airlock.introduction": "In order to continue, we ask that you complete a few challenges.",
+    "airlock.micro authorization.authorization failure.description of verfication attempt limit reached and block the user": "For security reasons, we weren\u2019t able to use the two authorizations to confirm your card and process your payment. You can try again using a different card.",
+    "airlock.micro authorization.rate limit failure.title that user is over rate limit and blocked": "Your card couldn\u2019t be confirmed",
     "airlock.micro_auth amount input description": "We sent two temporary authorizations from Airbnb of %{max_auth_amount} or less to %{card_name} %{last_four}. These usually show up instantly, but could take up to 2-3 days to appear.",
     "airlock.micro_auth amount input title": "Enter the amounts",
     "airlock.micro_auth failure.fail to cba next text": "Next",
@@ -3488,7 +3490,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
