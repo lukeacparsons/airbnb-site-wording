@@ -2077,6 +2077,7 @@
     "hmc.cta.message.header.dropdown.title": "No time to host?",
     "home": "Home",
     "homes.p2.listing_card.pricing.display_total_price_without_discount": "Total price before any discount applied",
+    "homes.p2.listing_card.pricing.price_total_and_strikethrough_total": "%{total_price} %{total_price_without_discount} total",
     "homes.p2.listing_card.pricing.was_total_price_without_discount": "Was %{total_price_without_discount}",
     "homes_checkout_flow.500.a server error prevented": "Unfortunately, a server error prevented your request from being completed. Airbnb may be undergoing maintenance or your connection may have timed out. Please refresh the page or try again.",
     "homes_checkout_flow.500.something went wrong": "Something went wrong",
@@ -3489,7 +3490,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
