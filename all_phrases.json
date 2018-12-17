@@ -3495,7 +3495,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "Similar listings"
+        "similar listing section name": "More homes you may like"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -4629,6 +4629,9 @@
     "p4.sidebar group payment price for the organizer": "You pay",
     "p4.sidebar group payment price per share and number of payers": "The other guest pays||||Each of the %{smart_count} other guests pay",
     "p4.sidebar group payment tooltip to explain price for other": "Your friends will receive a link to contribute",
+    "page0.caption with line breaks for unique homes in Oregon": "Over %{number}%{line_break} unique homes in Oregon",
+    "page0.magic_carpet_search_bar_caption_with_link": "Book unique %{link_begin}homes%{link_end} and experiences.",
+    "page0.title_caption_with_link_on_homes": "Book unique %{link_start}homes%{link_end} and experiences.",
     "page3.photo_x_of_y": "Photo %{position} of %{total}",
     "page3.see_all_n_photos": "See all %{num_photos} photos",
     "page3.show_original_reviews": "Show original reviews",
