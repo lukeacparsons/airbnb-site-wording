@@ -1690,6 +1690,12 @@
     "filters.Button to show Airbnb listings in a list": "Show listings",
     "filters.Button to show Airbnb restaurants in a list": "Show restaurants",
     "filters.Dialog call to action text Show results": "Show results",
+    "filters.Label for screenreaders explaining what the happens when CLEAR button is clicked on the DATES filter modal": "Clear. Clears the selected date filter values",
+    "filters.Label for screenreaders explaining what the happens when CLEAR button is clicked on the GUESTS filter modal": "Clear. Clears the selected guest filter values",
+    "filters.Label for screenreaders explaining what the happens when CLEAR button is clicked on the filters modal": "Clear. Clears the selected filter values",
+    "filters.Label for screenreaders explaining what the happens when CLOSE button is clicked on the DATES filter modal": "Close the dates filters and reset unsaved changes",
+    "filters.Label for screenreaders explaining what the happens when CLOSE button is clicked on the GUESTS filter modal": "Close the guests filter and reset unsaved changes",
+    "filters.Label for screenreaders explaining what the happens when CLOSE button is clicked on the filters modal": "Close the filters panel and reset unsaved changes",
     "filters_with_count": "Filters \u00b7 %{count}",
     "find_a_place": "Find a place",
     "finishing_up": "We're finishing things up...",
@@ -3489,7 +3495,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
