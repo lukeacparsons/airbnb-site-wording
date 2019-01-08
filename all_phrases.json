@@ -3496,7 +3496,7 @@
         "moweb.apply_filters": "Apply filters"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
-        "similar listing section name": "More homes you may like"
+        "similar listing section name": "Similar listings"
     },
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
@@ -4990,6 +4990,8 @@
     "react_dates.clear_dates": "Clear Dates",
     "react_dates.close_datepicker": "Close",
     "react_dates.date_is_selected": "Selected. %{date}",
+    "react_dates.date_is_selected_for_checkin_screen_reader_text": "Selected for check-in. %{date}",
+    "react_dates.date_is_selected_for_checkout_screen_reader_text": "Selected for check-out. %{date}",
     "react_dates.date_is_unavailable": "Not available %{date}",
     "react_dates.enter_key": "Enter key",
     "react_dates.escape": "Escape key",
