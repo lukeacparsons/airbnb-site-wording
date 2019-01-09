@@ -5800,7 +5800,7 @@
     "user_profile.reviews.header_guest_reviews": "From guests",
     "user_profile.reviews.header_host_reviews": "From hosts",
     "user_profile.reviews.listing_name_title": "Stayed at %{listing_name}",
-    "user_profile.reviews.load_more_cta": "Read %{smart_count} more review||||Read %{smart_count} more reviews",
+    "user_profile.reviews.load_more_cta": "Show more reviews",
     "user_profile.reviews.read_more_cta": "Read more",
     "user_profile.reviews.report_link_cta": "Report",
     "user_profile.reviews.response_title": "Response from %{firstName}",
