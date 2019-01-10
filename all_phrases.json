@@ -3501,12 +3501,14 @@
     "mario_copy_monorail_p4_causes": {
         "add beneficiary.add existing person": "Add an existing user",
         "add beneficiary.add new user": "Add a new user",
+        "add beneficiary.form label description for email": "This allows clients to access and use their accounts.",
         "add beneficiary.form label for birthdate": "Birthdate - MM/DD/YYYY",
         "add beneficiary.form label for country of citizenship": "Country of citizenship",
         "add beneficiary.form label for email": "Email",
         "add beneficiary.form label for first name": "First name",
         "add beneficiary.form label for last name": "Last name",
         "add beneficiary.introduction to creating beneficiary accounts for agencies": "Add guest details",
+        "add beneficiary.optional details section title": "Optional details",
         "add beneficiary.save new beneficiary account": "Add",
         "add beneficiary.subtitle of alert for successful user creation": "You can now book on behalf of this client",
         "add beneficiary.title of alert for successful user creation": "User created successfully"
