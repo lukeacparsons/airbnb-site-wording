@@ -2449,6 +2449,8 @@
     "listing_card.headline indicates that this listing is usually booked": "RARE FIND",
     "listing_card.message indicates that this listing is a rare find": "This place is usually booked.",
     "listing_card.show_price_cta": "Check availability",
+    "listing_card.tag num reviews": "%{numReviews} comments",
+    "listing_card.tags star rating and num reviews": "%{starRating} points \u00b7 %{numReviews} comments",
     "listing_photo_alt": "Listing photo",
     "listing_tour.close_button_label": "Close",
     "listing_tour.focus_container_accessible_label": "Explore the home",
