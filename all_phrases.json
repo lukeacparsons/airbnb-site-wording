@@ -5849,6 +5849,8 @@
     "user_profile.reviews.translation_disclaimer": "This description was automatically translated using Google Translate and may not be completely accurate.",
     "user_profile.shared.id_checked": "ID Checked",
     "user_profile.shared.superhost": "Superhost",
+    "user_profile.translate_button.show_original": "Show original review",
+    "user_profile.translate_button.translate": "Translate",
     "user_profile.user_info_summary.verification_types.header": "%{smartName} provided",
     "users.Cancel": "Cancel",
     "users.Confirm_Facebook_Password": "Confirm Facebook Password",
