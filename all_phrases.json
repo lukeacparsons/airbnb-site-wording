@@ -5474,6 +5474,7 @@
     "shared.Search Results": "Search Results",
     "shared.Search button label opens search autocomplete modal": "Open search",
     "shared.Search button takes user to previous page": "Open previous search results page",
+    "shared.Search.Screen reader text that informs number of suggestions with user input": "1 suggestion for %{user_input} .||||%{smart_count} suggestions for %{user_input}.",
     "shared.Search.Suggestion Count for Voiceover": "1 suggestion.||||%{smart_count} suggestions.",
     "shared.Search.VoiceOver instructions": "Use up and down arrow keys to navigate suggestions.",
     "shared.See all": "See all",
