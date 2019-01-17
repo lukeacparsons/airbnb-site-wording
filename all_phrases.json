@@ -3922,6 +3922,7 @@
         "education_title": "Unmatched quality paired with world-class service",
         "guest_feedback": "Guest feedback",
         "guests": "%{smart_count} guest||||%{smart_count} guests",
+        "home_icon_accessibility_label": "Location of the listing",
         "house_rules": "House rules",
         "mini_cal_available": "Available \u202f\u2022\u202f %{minPrice} - %{maxPrice} / night",
         "mini_cal_not_available": "Not available",
