@@ -3914,6 +3914,8 @@
         "bathrooms": "%{smart_count} bathroom||||%{smart_count} bathrooms",
         "bedrooms": "%{smart_count} bedroom (%{ensuite} ensuite)||||%{smart_count} bedrooms (%{ensuite} ensuite)",
         "beds": "%{smart_count} bed||||%{smart_count} beds",
+        "book_it_book": "Book",
+        "book_it_inquire": "Inquire",
         "book_it_starting_from": "starting from",
         "cancellation": "Cancellation",
         "cancellation_show_details": "Show details",
