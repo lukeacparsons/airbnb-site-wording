@@ -4512,6 +4512,7 @@
     "p1.china.verified_id_india": "Verified ID",
     "p1.instant_promo_november.button": "Remind me",
     "p1.remind users to turn on javascript": "Turn Javascript on so Airbnb can work its magic.",
+    "p1.search_bar.placeholder_text.city_address_keyword": "City, address, or keyword",
     "p1.search_bar.placeholder_text.destination_city_address": "Destination, city, or address",
     "p1.suggest users what to do without javascript": "In the meantime, here are some popular places to explore.",
     "p2.accessibility_filters_homes_count": "%{bold_text_start}%{smart_count} home%{bold_text_end} available meets your needs.||||%{bold_text_start}%{smart_count} homes%{bold_text_end} available meet your needs.",
