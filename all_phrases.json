@@ -4985,6 +4985,7 @@
     "quick_pay.subtitle for credit card form error": "Please check your payment details.",
     "quick_pay.subtitle for price fetch error message": "We were unable to retrieve the latest price with the options you have selected.",
     "quick_pay.subtitle of coupon modal for whoscoming page": "Each reservation can use up to 1 coupon.",
+    "quick_pay.subtitle of coupon modal if guests have no coupon": "There\u2019s no coupon can be applied to your trip.",
     "quick_pay.text for Airbnb credit checkbox": "Apply %{amountString} gift credit",
     "quick_pay.text for Apply a new coupon if user has no coupon": "Apply a new coupon",
     "quick_pay.text for add this credit card button and modal title": "Add Card",
