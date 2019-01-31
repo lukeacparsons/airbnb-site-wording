@@ -2772,6 +2772,7 @@
         "p5_body": "Now that you know where you\u2019re staying, a Trip Designer can book experiences and services. Everything will be organized into an itinerary designed around you and your destination.",
         "p5_body_pending": "A Trip Designer will be in touch within 72 hours to confirm availability for %{propertyName}",
         "p5_cta": "Go to Itinerary",
+        "p5_cta_group_payment": "Go To Payment Page",
         "p5_cta_secondary": "Share reservation details",
         "p5_heading": "Your reservation is confirmed",
         "p5_heading_pending": "Your request has been sent",
