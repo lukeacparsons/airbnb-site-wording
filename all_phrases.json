@@ -3943,6 +3943,7 @@
         "guests": "%{smart_count} guest||||%{smart_count} guests",
         "home_icon_accessibility_label": "Location of the listing",
         "house_rules": "House rules",
+        "inquiry_modal_title": "Inquire about %{listing_name}",
         "mini_cal_available": "Available \u202f\u2022\u202f %{minPrice} - %{maxPrice} / night",
         "mini_cal_not_available": "Not available",
         "mini_cal_show_full_cal": "Show full calendar",
