@@ -2087,6 +2087,7 @@
     "homes.p2.listing_card.pricing.display_total_price_without_discount": "Total price before any discount applied",
     "homes.p2.listing_card.pricing.was_total_price_without_discount": "Was %{total_price_without_discount}",
     "homes.pdp.book_it_module.p3.cta_text_book_it_button_without_dates": "Add dates",
+    "homes.prohost.teams.header.host_menu.Team": "Team",
     "homes_checkout_flow.500.a server error prevented": "Unfortunately, a server error prevented your request from being completed. Airbnb may be undergoing maintenance or your connection may have timed out. Please refresh the page or try again.",
     "homes_checkout_flow.500.something went wrong": "Something went wrong",
     "homes_checkout_flow.Let host know a little about yourself": "Let %{host_name} know a little about yourself and why you\u2019re coming.",
