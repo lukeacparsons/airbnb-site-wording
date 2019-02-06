@@ -3970,6 +3970,7 @@
         "security_deposit": "A Host requires a Security Deposit of %{securityDepositFormatted} to book this listing. The Guest is responsible for the amount of the Security Deposit, but it will not be charged unless the host makes a claim.",
         "see_detailed_description": "[See detailed description]",
         "see_more_photos": "See more photos",
+        "similar_listings_title": "Similar listings",
         "slideshow_close": "Close",
         "slideshow_hide_photo_list": "Hide photo list",
         "slideshow_next": "Next",
