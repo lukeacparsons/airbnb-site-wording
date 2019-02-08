@@ -860,6 +860,8 @@
     "airlock.phone_verification.response.invalid": "Looks like you entered the code incorrectly.",
     "airlock.phone_verification.response.title": "Enter your code",
     "airlock.phone_verification.title": "Phone Verification",
+    "airlock.phone_verification.with_number.introduction.description": "Before your message is sent, please make sure that we have the right number.",
+    "airlock.phone_verification.with_number.introduction.header": "Confirm your phone number",
     "airlock.phone_verification_or_email_verification.Call me": "Call me",
     "airlock.phone_verification_or_email_verification.Depending on your provider": "Depending on your provider, it may take a few minutes to arrive.",
     "airlock.phone_verification_or_email_verification.Enter Your Code": "Enter your code",
