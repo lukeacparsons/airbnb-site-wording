@@ -154,6 +154,8 @@
     "a11y.root_description": "This host has reviewed their home for accessibility features.",
     "a11y.show_all_with_count": "Show all %{feature_count} features",
     "a11y.title": "Accessibility",
+    "a4w.search_intent.business_trip_first_message_placeholder": "Hello %{host_name}! I\u2019m traveling for work and your place looks like the perfect fit for my trip.",
+    "a4w.search_intent.guest_picker_business_travel_toggle": "Traveling for work?",
     "about_the_host.host_bio_title": "About %{host_name}",
     "about_the_host.host_interaction_title": "Interaction with guests",
     "about_this_listing.read_all_button_text": "Read more about the space",
