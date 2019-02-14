@@ -2783,6 +2783,7 @@
         "p5_cta_group_payment": "Complete payment",
         "p5_cta_secondary": "Share reservation details",
         "p5_heading": "Your reservation is confirmed",
+        "p5_heading_expired": "This reservation has expired. Feel free to book again or reach out to a trip designer for assistance.",
         "p5_heading_pending": "Your request has been sent",
         "p5_heading_pending_gp": "Your reservation has been placed.",
         "reservation_code": "Reservation code"
