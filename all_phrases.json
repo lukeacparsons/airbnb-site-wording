@@ -1590,6 +1590,8 @@
     "distance_away": "%{distance_localized} away",
     "do it": "Verify Me",
     "dont-use-any-services": "Don't use any of these services?",
+    "dora.sections.interactive_items.invalid_email_error": "Invalid email address. Are you missing an @ or .com?",
+    "dora.sections.interactive_items.light_subscribe_accept_terms": "Please review and accept the terms to get notified",
     "download_the_app": "Download the App",
     "driving_distance_km": "It\u2019s %{smart_count} km from %{airport}.||||It\u2019s %{smart_count} km from %{airport}.",
     "driving_distance_miles": "It\u2019s %{smart_count} mile from %{airport}.||||It\u2019s %{smart_count} miles from %{airport}.",
