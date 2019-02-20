@@ -2108,7 +2108,7 @@
     "homes_checkout_flow.agree for continue button": "Agree",
     "homes_checkout_flow.agree_to_currency_mismatch": "Okay",
     "homes_checkout_flow.booking_error.call_to_action.label.background_check_pending": "Change your dates",
-    "homes_checkout_flow.booking_error.subtitle.background_check_pending": "Try making a reservation for a future date.",
+    "homes_checkout_flow.booking_error.subtitle.background_check_pending": "We can't complete our guest screening process in time for this reservation.",
     "homes_checkout_flow.booking_error.title.background_check_pending": "Sorry\u2014it\u2019s too late to book this home",
     "homes_checkout_flow.business_travel.employee search.remove": "Remove",
     "homes_checkout_flow.business_travel.employee_search.add.email": "Email",
