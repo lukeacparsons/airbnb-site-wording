@@ -1629,6 +1629,7 @@
     "error.number": "Please enter a number.",
     "error.push_notification": "We\u2019re having trouble sending you a push notification, please follow the instruction below. Once you've confirmed these things, click the <strong>Resend push notification</strong> button",
     "error.required": "Please enter a value.",
+    "error.signup.picture.description.when.user.inputs.underage": "Underage user",
     "error_flash": "Error",
     "error_message": "Error",
     "error_saving_your_response": "Sorry, there has been an error replying to this review.",
