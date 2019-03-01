@@ -1098,6 +1098,7 @@
     "business_travel.post_enroll.enter_tm_email_modal.title": "Refer someone responsible for travel",
     "business_travel.post_enroll.error.missing_company_name": "Please enter company name.",
     "business_travel.post_enroll.error.missing_company_size": "Please enter company size.",
+    "business_travel.post_enroll.error.modal.login": "Log in",
     "business_travel.post_enroll.form.accept_term": "By clicking the button below, you accept Airbnb\u2019s %{tos_start}Business Travel Program Terms%{tos_end}.",
     "business_travel.post_enroll.form.company_name": "Company Name",
     "business_travel.post_enroll.form.company_size": "Company Size",
