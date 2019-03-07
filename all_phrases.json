@@ -3973,6 +3973,7 @@
         "add_photos": "Add photos",
         "amount_per_night_label": "/ night",
         "bathrooms": "%{smart_count} bathroom||||%{smart_count} bathrooms",
+        "beachfront": "Beachfront",
         "bedrooms": "%{smart_count} bedroom (%{ensuite} ensuite)||||%{smart_count} bedrooms (%{ensuite} ensuite)",
         "beds": "%{smart_count} bed||||%{smart_count} beds",
         "book_it_book": "Book",
