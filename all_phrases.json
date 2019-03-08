@@ -3483,6 +3483,7 @@
         "contact_trip_designer_button": "Ask a Trip Designer",
         "contact_trip_designer_copy": "Just ask. Our Trip Design team is available 24/7 to make planning your trip seamless.",
         "contact_trip_designer_title": "Want help finding the perfect place?",
+        "destination_subtitle": "%{listings_count}+ homes",
         "destinations_copy": "Available in 16 destinations, with more coming soon.",
         "destinations_link": "Homes in %{destination}",
         "destinations_show_more": "Show more destinations",
