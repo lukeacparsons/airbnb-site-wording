@@ -3981,9 +3981,9 @@
     "mario_luxury_retreats_dot_com_pdp": {
         "add_photos": "Add photos",
         "amount_per_night_label": "/ night",
-        "bathrooms": "%{smart_count} bathroom||||%{smart_count} bathrooms",
+        "bathrooms": "%{smart_count} bathroom (%{ensuite} ensuite)||||%{smart_count} bathrooms (%{ensuite} ensuite)",
         "beachfront": "Beachfront",
-        "bedrooms": "%{smart_count} bedroom (%{ensuite} ensuite)||||%{smart_count} bedrooms (%{ensuite} ensuite)",
+        "bedrooms": "%{smart_count} bedroom||||%{smart_count} bedrooms",
         "beds": "%{smart_count} bed||||%{smart_count} beds",
         "book_it_book": "Book",
         "book_it_inquire": "Inquire",
