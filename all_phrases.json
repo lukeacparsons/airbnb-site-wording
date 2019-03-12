@@ -5151,6 +5151,7 @@
     "quick_pay.text to apply coupon label": "Apply one of your coupons",
     "quick_pay.text to confirm for adding a credit card in the modal": "Confirm",
     "quick_pay.text to start applying a coupon": "Apply coupon",
+    "quick_pay.text_for_button_to_submit_payment_and_payment_detail_changes": "Submit",
     "quick_pay.title for booking error message": "Oops, we're unable to complete this booking",
     "quick_pay.title for payment error message": "Oops, we're unable to complete this payment",
     "quick_pay.title for price fetch error message": "Oops, something went wrong",
