@@ -3955,7 +3955,7 @@
         "return_to_inbox_label": "Go back to inbox",
         "return_to_message_thread_label": "Go back to messages",
         "return_to_previous_page_label": "Back",
-        "routing_after_60_seconds": "",
+        "routing_after_60_seconds": "Thank you for your message. A member of our Trip Design team will get back to you shortly.",
         "see_message_thread_details_label": "See more details",
         "send_button_label": "Send",
         "show_details_label": "Details",
