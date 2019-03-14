@@ -2744,7 +2744,7 @@
         "error_messages_empty_id_field": "This field cannot be empty.",
         "fapiao_content": "There is an additional 6% charge for getting a Fapiao, and you will receive a Fapiao after the end of the journey.",
         "fapiao_title": "Get Fapiao",
-        "fill_fapiao_link": "Fill in the Fapiao infomation",
+        "fill_fapiao_link": "Fill in the Fapiao information",
         "modal_add": "Add",
         "modal_choose_header_type": "Please choose the type of header.",
         "modal_delete": "Delete",
@@ -2758,13 +2758,13 @@
         "modal_form_taxpayer_id": "Taxpayer ID",
         "modal_form_taxpayer_id_holder": "Taxpayer ID",
         "modal_none_option": "None",
-        "modal_return_to_list": "Return to modify Fapiao infomation",
+        "modal_return_to_list": "Return to modify Fapiao information",
         "modal_save": "Save",
         "modal_subtitle": "To ensure timely delivery of your Fapiao, please verify that all fields are inputted correctly. Fapiao information cannot be modified after the order is submitted.",
         "modal_title_add": "Fill in Fapiao information",
         "modal_title_edit": "Modify Fapiao information",
-        "modal_title_list": "Modify Fapiao infomation",
-        "modify_fapiao_link": "Modify Fapiao infomation"
+        "modal_title_list": "Modify Fapiao information",
+        "modify_fapiao_link": "Modify Fapiao information"
     },
     "mario_copy_host_less_guest_referrals": {
         "email.reservation.guest_reservation_acceptance_confirmation.egr_cta": "Send invites",
