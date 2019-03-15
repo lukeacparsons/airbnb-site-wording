@@ -4012,7 +4012,7 @@
     "mario_luxury_retreats_dot_com_pdp": {
         "add_photos": "Add photos",
         "amount_per_night_label": "/ night",
-        "bathrooms": "%{smart_count} bathroom (%{ensuite} ensuite)||||%{smart_count} bathrooms (%{ensuite} ensuite)",
+        "bathrooms": "%{smart_count} bathroom||||%{smart_count} bathrooms",
         "bathrooms_with_ensuite_count": "%{smart_count} bathroom (%{ensuite} ensuite)||||%{smart_count} bathrooms (%{ensuite} ensuite)",
         "beachfront": "Beachfront",
         "bedrooms": "%{smart_count} bedroom||||%{smart_count} bedrooms",
