@@ -2751,9 +2751,11 @@
         "address_form_street_input_placeholder": "Address",
         "address_model_content_subtitle": "To ensure timely delivery of your Fapiao, please verify that all fields are inputted correctly.",
         "address_model_content_title": "Fill in delivery information",
+        "electronic_general_fapiao": "Electronic general Fapiao",
         "error_messages_empty_address_name_field": "This field cannot be empty.",
         "error_messages_empty_address_phone_number_field": "This field cannot be empty.",
         "error_messages_empty_address_street_field": "This field cannot be empty.",
+        "fapiao": "Fapiao",
         "fapiao_content": "There is an additional 6% charge for getting a Fapiao, and you will receive your Fapiao after the end of the journey.",
         "fapiao_title": "Get Fapiao",
         "fill_fapiao_link": "Fill in Fapiao information",
@@ -2775,7 +2777,9 @@
         "modal_title_add": "Fill in Fapiao information",
         "modal_title_edit": "Edit Fapiao information",
         "modal_title_list": "Modify Fapiao details",
-        "modify_fapiao_link": "Modify Fapiao information"
+        "modify_fapiao_link": "Modify Fapiao information",
+        "tip_has_been_processed": "Your Fapiao has been processed",
+        "tip_will_begin_processing": "Your Fapiao will begin processing after the trip"
     },
     "mario_copy_host_less_guest_referrals": {
         "email.reservation.guest_reservation_acceptance_confirmation.egr_cta": "Send invites",
