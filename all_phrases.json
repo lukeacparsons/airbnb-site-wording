@@ -6020,6 +6020,7 @@
     "user_profile.header.edit_profile_button": "Edit profile",
     "user_profile.header.traveling_since": "Joined in %{year}",
     "user_profile.header.user_name": "Hi, I\u2019m %{smartName}",
+    "user_profile.host_guidebooks.title": "%{smart_name}\u2019s guidebook||||%{smart_name}\u2019s guidebooks",
     "user_profile.hosted_experiences.title": "%{smartName}\u2019s experience||||%{smartName}\u2019s experiences",
     "user_profile.introduction.bio.connected_accounts": "Connected account||||Connected accounts",
     "user_profile.introduction.bio.languages": "Speaks %{languages}",
