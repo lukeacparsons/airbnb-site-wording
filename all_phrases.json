@@ -3548,13 +3548,13 @@
         "trip_designer_section_copy": "Just ask. Our Trip Design team is available 24/7 to make planning your trip seamless.",
         "trip_designer_section_title": "Want help finding the perfect place?",
         "value_prop_copy": "Truly elevated travel made possible by our partners at Luxury Retreats, who match only the highest quality homes with staff, service, and 24/7 trip support.",
-        "value_prop_home_inspection_copy": "Know that everything will be ready for you when you arrive, down to very last detail.",
-        "value_prop_home_inspection_title": "Homes inspected before every stay",
-        "value_prop_services_and_staff_copy": "Enjoy all the things that make for a memorable stay, from a poolside massage to an executive chef.",
-        "value_prop_services_and_staff_title": "Personalized services and staff",
+        "value_prop_home_inspection_copy": "Each home is professionally inspected and maintained, down to the last detail.",
+        "value_prop_home_inspection_title": "300+ point inspection",
+        "value_prop_services_and_staff_copy": "From personal chefs to massage therapists, a local team of professionals has you covered.",
+        "value_prop_services_and_staff_title": "At your service",
         "value_prop_title": "Unparalleled service from dedicated experts",
-        "value_prop_trip_designers_copy": "Craft the perfect trip with local knowledge and professional planning expertise.",
-        "value_prop_trip_designers_title": "Dedicated Trip Designers"
+        "value_prop_trip_designers_copy": "Travel itineraries crafted by knowledgeable trip designers.",
+        "value_prop_trip_designers_title": "Custom designed trips"
     },
     "mario_copy_monorail_luxury_retreats_checkout": {
         "error_message_no_payment_token": "No payment token provided",
@@ -4516,6 +4516,8 @@
     "ml.pricing.contextual_tips_card.body": "Make your listing more competitive with a lower price",
     "ml.pricing.contextual_tips_card.button": "Update price",
     "ml.pricing.contextual_tips_card.title": "Try a nightly price of %{suggested_price}",
+    "ml.pricing.length_of_stay_discounts.contextual_tips_card.body": "You could get longer reservations if you add a weekly or monthly discount.",
+    "ml.pricing.length_of_stay_discounts.contextual_tips_card.title": "Add a discount for longer trips",
     "ml.section.guest_settings.choose who can book": "Choose who can book available days without approval",
     "ml.section.guest_settings.everyone who agrees": "Everyone who agrees to my House Rules.",
     "ml.section.guest_settings.guests_that_meet_my_requirements": "Only guests who meet my requirements below.",
