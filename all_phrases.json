@@ -4898,8 +4898,6 @@
     "payments.wechat.submit_wechat_payment_button_description": "Complete payment",
     "payu_redirect_helper_text": "You will be redirected to PayU to complete your payment. %{bold_start}You must complete the process or the transaction will not occur.%{bold_end}",
     "pending_reservation": "Your reservation is pending.",
-    "pensieve.explore.by.author": "By %{author_name}",
-    "pensieve.explore.trip_duration": "%{smart_count}-day||||%{smart_count}-days",
     "per month": "per month",
     "per night": "per night",
     "per_month": "per month",
