@@ -6041,6 +6041,7 @@
     "user_profile.new_account_and_profiles.fields.languages.modal.subtitle": "We have many international travelers who appreciate hosts who can speak their language.",
     "user_profile.new_account_and_profiles.fields.location": "Location",
     "user_profile.new_account_and_profiles.fields.work": "Work",
+    "user_profile.new_account_and_profiles.link.label.update_photo": "Update photo",
     "user_profile.new_account_and_profiles.reviews_by_you_link": "Reviews by you",
     "user_profile.new_guest_section.body": "Let the Airbnb community know about %{smartName} with a first review. Reviews can only be left by past guests or hosts.",
     "user_profile.new_guest_section.title": "Be the first to welcome %{smartName}!",
