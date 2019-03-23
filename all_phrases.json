@@ -3571,6 +3571,9 @@
     "mario_copy_monorail_luxury_guest_landing": {
         "bathrooms": "%{bathrooms} bathrooms",
         "bedrooms": "%{bedrooms} bedrooms",
+        "collection_1_title": "Relax in beachfront seclusion",
+        "collection_2_title": "Experience high altitudes",
+        "collection_3_title": "Immerse in culture capitals",
         "collections_title": "Explore our top Airbnb Luxe destinations",
         "contact_trip_designer_button": "Ask a Trip Designer",
         "contact_trip_designer_copy": "Just ask. Our Trip Design team is available 24/7 to make planning your trip seamless.",
