@@ -2174,6 +2174,8 @@
     "homes.pdp.availability_calendar.voice_over.date_unavailable_for_checkin": "%{date} is available for stay, but not for check in.",
     "homes.pdp.availability_calendar.voice_over.date_unavailable_for_checkout": "%{date} is available for stay, but not for check out.",
     "homes.pdp.book_it_module.p3.cta_text_book_it_button_without_dates": "Add dates",
+    "homes.pdp.book_it_module.pay_less_up_front_learn_more_content_button_text": "PAYMENT DETAILS",
+    "homes.pdp.book_it_module.pay_less_up_front_learn_more_icon_accessibility_label_text": "Show component info",
     "homes.prohost.teams.header.host_menu.Team": "Team",
     "homes_checkout.a11y.homes_checkout.checkin.a11y_text_to_describe_that_date_is_for_trip_checkin": "Check-in",
     "homes_checkout.a11y.homes_checkout.checkout.a11y_text_to_describe_that_date_is_for_trip_checkout": "Checkout",
