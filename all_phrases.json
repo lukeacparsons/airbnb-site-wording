@@ -4119,7 +4119,7 @@
         "payment_wont_be_charged_yet": "You won\u2019t be charged yet",
         "policies_and_requirements": "Policies and requirements",
         "pool": "Pool",
-        "read_more_about_listing": "Read more about the %{listing_name}",
+        "read_more_about_listing": "Read more about %{listing_name}",
         "reviews": "%{smart_count} review||||%{smart_count} reviews",
         "security_deposit": "A Host requires a Security Deposit of %{securityDepositFormatted} to book this listing. The Guest is responsible for the amount of the Security Deposit, but it will not be charged unless the host makes a claim.",
         "see_detailed_description": "[See detailed description]",
