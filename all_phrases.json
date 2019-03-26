@@ -5893,6 +5893,8 @@
     "signup.tos last step please agree to the term": "Please agree to the terms.",
     "signup.use email instead": "Use email instead",
     "signup.use phone number instead": "Use phone number instead",
+    "signup_login.login.modal.accessibility.title": "Log in",
+    "signup_login.signup.modal.accessibility.title": "Sign up",
     "signup_method.continue_with_service": "Continue with %{service_name}",
     "signup_method.signup_with_service": "Sign up with %{service_name}",
     "signup_modal.collab_list_desktop": "Join Airbnb to help %{list_owner} plan your upcoming trip.",
