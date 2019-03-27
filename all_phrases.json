@@ -2820,6 +2820,7 @@
         "modal_form_taxpayer_id": "Taxpayer ID",
         "modal_form_taxpayer_id_placeholder": "Company tax registration number",
         "modal_none_option": "None",
+        "modal_request_error_message": "Request error. Please try again.",
         "modal_return_to_list": "Return",
         "modal_save": "Save",
         "modal_subtitle": "The right information can help you receive your Fapiao more quickly. Please confirm that the information is correct and the Fapiao information cannot be modified after the order is submitted.",
