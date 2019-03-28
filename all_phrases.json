@@ -4093,7 +4093,7 @@
         "beds": "%{smart_count} bed||||%{smart_count} beds",
         "book_it_book": "Book",
         "book_it_inquire": "Inquire",
-        "book_it_starting_from": "starting at",
+        "book_it_starting_from": "Starting at",
         "call_phone_number_or": "Call %{phone_number} or",
         "cancellation": "Cancellation",
         "cancellation_show_details": "Show details",
