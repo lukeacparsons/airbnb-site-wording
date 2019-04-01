@@ -3771,7 +3771,8 @@
         "subheadline_1": "With Airbnb Experiences, you can find surfing, cooking classes, and more in the area."
     },
     "mario_copy_monorail_p2": {
-        "moweb.apply_filters": "Apply filters"
+        "moweb.apply_filters": "Apply filters",
+        "tp.explore_api.destination_info.things_to_do.local_recommendations_label": "local recommendations"
     },
     "mario_copy_monorail_p3_similar_listing_section_name": {
         "similar listing section name": "More homes you may like"
