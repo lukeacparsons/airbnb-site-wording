@@ -4197,6 +4197,8 @@
         "listing_tier_description_with_remark": "%{smart_count} bedroom, max %{maxGuests} guests - %{remark}||||%{smart_count} bedrooms, max %{maxGuests} guests - %{remark}",
         "listing_tier_description_without_remark": "%{smart_count} bedroom, max %{maxGuests} guests||||%{smart_count} bedrooms, max %{maxGuests} guests",
         "mini_cal_available": "Available \u202f\u2022\u202f %{minPrice} - %{maxPrice} / night",
+        "mini_cal_available_with_price_text": "Available \u202f\u2022\u202f %{priceText}",
+        "mini_cal_available_without_price_info": "Available",
         "mini_cal_not_available": "Not available",
         "mini_cal_show_full_cal": "Show full calendar",
         "mini_cal_subtitle": "Minimum stay varies. Choose dates for a total trip price, including additional fees and taxes.",
