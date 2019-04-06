@@ -2228,6 +2228,7 @@
     "homes.contact_host.open_homes.send_message_description_open_homes": "Include a summary about the nonprofit you work for, details about who will be staying at this place, and how a discount would benefit your organization.",
     "homes.contact_host.open_homes.send_open_homes_contact_host_inquiry_description": "Airbnb\u2019s Open Homes program partners with your non-profit to provide temporary housing for deployed aid staff, beneficiaries, and their families during times of need.",
     "homes.p2.listing_card.pricing.display_total_price_without_discount": "Total price before any discount applied",
+    "homes.p2.listing_card.pricing.price_upon_request": "Upon request",
     "homes.p2.listing_card.pricing.was_total_price_without_discount": "Was %{total_price_without_discount}",
     "homes.pdp.availability_calendar.check_in_date_input_label": "Check-in",
     "homes.pdp.availability_calendar.checkout_date_input_label": "Checkout",
