@@ -4910,6 +4910,7 @@
     "p3_business_details.Legal representatives": "Legal representatives",
     "p3_business_details.Trade register numbers": "Trade register numbers",
     "p3_business_details.VAT number": "VAT number",
+    "p3_description.modal_title": "About this space",
     "p3_display_local_time.message": "It\u2019s currently %{hour} in %{location}.",
     "p3_home_photo_gallery.shared_verified_description_icon_badge_listing_caption": "Photo Verified by Airbnb",
     "p3_page.top_page.preview_listing_banner.Edit_listing_text": "Edit listing",
