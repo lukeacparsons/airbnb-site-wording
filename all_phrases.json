@@ -3733,7 +3733,7 @@
         "p4.phone_verification.step_verify_code_from_sms.title": "Verify your phone number",
         "p5_cta": "Go to Luxury Retreats",
         "p5_cta_group_payment": "Go To Payment Page",
-        "p5_explanation_body": "We sent you an email confirmation with all of your reservation details. Now, we\u2019ll help you set up your Luxury Retreats account so you can manage your itinerary.",
+        "p5_explanation_body": "We sent you an email confirmation with all of your reservation details.",
         "p5_explanation_body_group_payment": "Here is your group payment link for you to use to complete payment or to share with friends. You have 72 hours to complete all outstanding payments before your reservation is cancelled and any completed payments are refunded.",
         "p5_explanation_body_rtb": "A villa specialist will be in touch within 72 hours to confirm availability.",
         "p5_explanation_title": "Your reservation for %{listing_name} is confirmed.",
