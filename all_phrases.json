@@ -2232,6 +2232,7 @@
     "homes.p2.listing_card.pricing.was_total_price_without_discount": "Was %{total_price_without_discount}",
     "homes.p2_p3_tooltip_simplification.entry_level_title": "Show price details",
     "homes.p2_p3_tooltip_simplification.modal_title": "Price details",
+    "homes.p2_p3_tooltip_simplification.tooltip_accessibility_label": "Show details",
     "homes.pdp.availability_calendar.check_in_date_input_label": "Check-in",
     "homes.pdp.availability_calendar.checkout_date_input_label": "Checkout",
     "homes.pdp.availability_calendar.error.cannot_select_checkout_before_checkin": "Please choose a check-in date first.",
