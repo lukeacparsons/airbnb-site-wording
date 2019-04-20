@@ -4241,7 +4241,7 @@
         "slideshow_progress_indicator_caption": "%{numerator}/%{denominator}: %{caption}",
         "slideshow_show_photo_list": "Show photo list",
         "to_speak_with_us_leading_text": "To speak with us, call:",
-        "view_photos": "View Photos"
+        "view_photos": "Show photos"
     },
     "mario_messaging": {
         "close_chat_drawer_label": "Close message thread",
