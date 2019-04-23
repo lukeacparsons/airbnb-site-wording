@@ -3002,7 +3002,10 @@
     "mario_copy_luxury_pdp": {
         "about_title": "About",
         "add_on_services": "Add-on services",
+        "add_on_services_contact": "Contact a trip designer",
+        "add_on_services_question": "Want something else?",
         "add_on_services_section_title": "Add on",
+        "add_on_services_value": "After booking this home, a trip designer can arrange any of these add-on services.",
         "add_staff": "Add more staff to enhance your stay",
         "additional_services_modal_subtitle": "Add-on service",
         "amenities_essentials_header": "Essentials",
