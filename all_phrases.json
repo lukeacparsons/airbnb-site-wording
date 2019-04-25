@@ -6146,7 +6146,7 @@
     "trip_platform.footer.weibo_icon_label": "Navigate to Weibo",
     "trips": "Trips",
     "trips.explore.guidebook.header_nav_dropdown_guidebook_dashboard_entry_point": "Your Guidebook",
-    "trust_homes_checkout_flow_security_deposit_section_details": "This reservation requires a deposit of %{price}, which we\u2019ll pre-authorize to your payment method 48 hours before check-in. The funds won\u2019t be available to you until after checkout. Airbnb isn\u2019t responsible for any overdraft fees incurred.",
+    "trust_homes_checkout_flow_security_deposit_section_details": "This reservation requires a deposit of %{price}, which we\u2019ll pre-authorize to your payment method 48 hours before check-in. The funds won\u2019t be available to you until after checkout. Airbnb isn\u2019t responsible for any overdraft fees.",
     "trust_homes_checkout_flow_security_deposit_section_title": "Security deposit",
     "trust_security_deposit.policy_explanation_modal.content": "To help protect our community of hosts, Airbnb requires security deposits for some reservations. It\u2019s one way that we\u2019re working to build trust between guests and hosts all over the world.",
     "trust_security_deposit.policy_explanation_modal.cta_label": "Got it",
