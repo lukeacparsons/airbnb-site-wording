@@ -5073,7 +5073,7 @@
     "payments.methods.aura": "Aura",
     "payments.methods.boleto": "Boleto Banc\u00e1rio",
     "payments.methods.credit_card": "Credit card",
-    "payments.methods.credit_debit_card": "Credit or Debit Card",
+    "payments.methods.credit_debit_card": "Credit or debit card",
     "payments.methods.diners_club": "Diners Club",
     "payments.methods.discover": "Discover Card",
     "payments.methods.elo": "Elo",
