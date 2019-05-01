@@ -5162,6 +5162,7 @@
     "please_click_here_to_contact_us": "Please click here to contact us if you encounter any issues.",
     "please_describe_a_reason": "Please describe a reason",
     "please_verify_soon": "To ensure the safety of hosts and guests, please verify your ID in %{smart_count} hours.",
+    "plus.pdp.a11y.home_tour_preview_button_label": "Expand image #%{photo_index} for %{room_name}",
     "plus.pdp.reviews_module.airbnb_plus_verified": "Airbnb Plus Verified",
     "plus.pdp.summary_section.host_name": "Hosted by %{name}",
     "policies.cancellation_policies_and_house_rules_title": "Cancellation Policy and House Rules",
