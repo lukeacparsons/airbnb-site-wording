@@ -4935,6 +4935,7 @@
     "p3_description.modal_title": "About this space",
     "p3_display_local_time.message": "It\u2019s currently %{hour} in %{location}.",
     "p3_home_photo_gallery.shared_verified_description_icon_badge_listing_caption": "Photo Verified by Airbnb",
+    "p3_location.hosts_home_location": "%{host_name}\u2019s place is located in %{location}.",
     "p3_page.top_page.preview_listing_banner.Edit_listing_text": "Edit listing",
     "p3_page.top_page.preview_listing_banner.Preview_info": "This is how guests will see your listing",
     "p3_page.top_page.preview_listing_banner.Preview_mode": "Preview mode:",
