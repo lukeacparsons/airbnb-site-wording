@@ -2233,6 +2233,8 @@
     "homes.p2_p3_tooltip_simplification.entry_level_title": "Show price details",
     "homes.p2_p3_tooltip_simplification.modal_title": "Price details",
     "homes.p2_p3_tooltip_simplification.tooltip_accessibility_label": "Show details",
+    "homes.pdp.alternative_dates_similar_listings.available_dates": "Available %{check_in_date} - %{check_out_date}",
+    "homes.pdp.alternative_dates_similar_listings.section_name": "More places to stay for flexible dates",
     "homes.pdp.availability_calendar.check_in_date_input_label": "Check-in",
     "homes.pdp.availability_calendar.checkout_date_input_label": "Checkout",
     "homes.pdp.availability_calendar.error.cannot_select_checkout_before_checkin": "Please choose a check-in date first.",
