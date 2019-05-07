@@ -3696,6 +3696,7 @@
     "mario_copy_monorail_luxury_guest_landing": {
         "bathrooms": "%{bathrooms} bathrooms",
         "bedrooms": "%{bedrooms} bedrooms",
+        "brand_description": "Airbnb Luxe offers pristine, expertly designed homes with luxury amenities, services, and a dedicated trip designer.",
         "collection_1_title": "Relax in beachfront seclusion",
         "collection_2_title": "Experience high altitudes",
         "collection_3_title": "Immerse in culture capitals",
