@@ -2000,7 +2000,7 @@
     "guidebook.guidebook_p3_button.city_guidebook.title": "Things to do in %{location}",
     "guidebook.guidebook_p3_description.Guidebook": "Guidebook",
     "guidebook.guidebook_p3_description.city_column.title": "%{location} Guidebook",
-    "guidebook.guidebook_p3_description.host_column.title": "%{name}'s Guidebook",
+    "guidebook.guidebook_p3_description.host_column.title": "See guidebook",
     "guidebook.header.Guidebooks": "Guidebooks",
     "guidebook.index_page.description": "A collection of all the best places in every city, as told by Airbnb hosts. Find everything from coffee shops and parks, to secret spots.",
     "guidebook.insider_guidebook_page.about_author": "About %{first_name}",
