@@ -3941,6 +3941,8 @@
         "home_cta_shanghai": "Explore %{select_program_name} homes in Shanghai",
         "home_cta_sydney": "Explore Airbnb Plus homes in Sydney",
         "home_cta_toronto": "Explore %{select_program_name} homes in Toronto",
+        "home_next_listing_a11y_label": "Next featured listing photography",
+        "home_prev_listing_a11y_label": "Previous featured listing photography",
         "home_title": "Thoughtful design",
         "host_copy": "Airbnb Plus hosts are highly rated (4.8+), accommodating, and take care of the details that make you feel at home\u2014like soft linens and fully equipped kitchens.%{paragraphBreak}Learn how a few of our best hosts make their home welcoming for every guest:",
         "host_title": "Exceptional hosts",
