@@ -3105,6 +3105,7 @@
         "learn_more_button": "Learn More",
         "lux_value_prop_section_title": "Comes with every Airbnb Luxe reservation",
         "luxury_badge": "Luxe",
+        "machine_translation_disclaimer": "This description was automatically translated from %{locale} using Google Translate and may not be completely accurate.",
         "message_trip_designer": "Message a Trip Designer",
         "more_amenities": "+ %{more} more",
         "next_button": "Next",
