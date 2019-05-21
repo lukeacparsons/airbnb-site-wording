@@ -4962,6 +4962,8 @@
     "p3_business_details.VAT number": "VAT number",
     "p3_business_details.description_text": "This place is hosted by a business.",
     "p3_business_details.show_details_modal_cta_text": "Show business details",
+    "p3_cohosts.description_text": "When you stay in an Airbnb, you\u2019re staying at someone\u2019s place.",
+    "p3_cohosts.section_title": "About this place",
     "p3_description.modal_title": "About this space",
     "p3_display_local_time.message": "It\u2019s currently %{hour} in %{location}.",
     "p3_home_photo_gallery.shared_verified_description_icon_badge_listing_caption": "Photo Verified by Airbnb",
