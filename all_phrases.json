@@ -5036,7 +5036,6 @@
     "p4.sidebar group payment tooltip to explain price for other": "Your friends will receive a link to contribute",
     "page0.caption with line breaks for unique homes in Oregon": "Over %{number}%{line_break} unique homes in Oregon",
     "page0.magic_carpet_search_bar_caption_with_link": "Book unique %{link_begin}homes%{link_end} and experiences.",
-    "page0.title_caption_with_link_on_homes": "Book unique %{link_start}homes%{link_end} and experiences.",
     "page0.title_caption_with_link_on_homes.stays.v2": "Book unique places to %{link_start}stay%{link_end} and things to do.",
     "page3.photo_x_of_y": "Photo %{position} of %{total}",
     "page3.see_all_n_photos": "See all %{num_photos} photos",
