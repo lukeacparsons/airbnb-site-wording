@@ -5072,7 +5072,7 @@
     "payments.book.Add Alipay Account": "Add Alipay Account",
     "payments.book.payment schedule.installments": "Monthly payments",
     "payments.book.payments.number of times": "%{num_months}x",
-    "payments.cuba_attestation.certify_reason": "I certify that I satisfy criteria for a general license for travel to Cuba related to the following activity:",
+    "payments.cuba_attestation.certify_reason": "I certify that my travel to Cuba satisfies the criteria for the general license identified below:",
     "payments.cuba_attestation.purpose_of_travel_to_cuba": "Purpose of Travel to Cuba",
     "payments.methods.JCB": "JCB Card",
     "payments.methods.adyen_ideal": "iDEAL",
