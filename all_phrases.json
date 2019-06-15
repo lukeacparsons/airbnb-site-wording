@@ -2220,6 +2220,7 @@
     "homes.pdp.book_it_module.pay_less_up_front_learn_more_icon_accessibility_label_text": "Show component info",
     "homes.pdp.book_it_module.price_breakdown_collapsed_show_all_button_text": "Price breakdown",
     "homes.pdp.book_it_module.price_breakdown_expanded_hide_button_text": "Hide breakdown",
+    "homes.pdp.book_it_module.total_line_item_title": "Total for %{smart_count} night |||| Total for %{smart_count} nights",
     "homes.price_display.accessibility_label_discounted_price": "Discounted price:",
     "homes.price_display.accessibility_label_previous_price": "Previous price:",
     "homes.price_display.accessibility_label_price": "Price:",
