@@ -4242,7 +4242,7 @@
         "security_deposit": "A Host requires a Security Deposit of %{securityDepositFormatted} to book this listing. The Guest is responsible for the amount of the Security Deposit, but it will not be charged unless the host makes a claim.",
         "see_detailed_description": "[See detailed description]",
         "see_more_photos": "Show more photos",
-        "services_add_on_subtitle": "After you book this home, your Villa Specialist can arrange anything for an additional cost.",
+        "services_add_on_subtitle": "After you book this home, your Concierge can arrange anything for an additional cost.",
         "services_add_on_title": "Add-on services",
         "services_included_title": "Included with this home",
         "show_all_amenities": "Show all amenities",
