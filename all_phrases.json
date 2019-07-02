@@ -3995,9 +3995,6 @@
         "name_birthday_page_title": "What\u2019s your name and birthday?",
         "password_field_placeholder": "Password"
     },
-    "mario_guest_protection_policy_note_p4": {
-        "sidebar_guest_protection_note": "%{bold_start}Book with confidence%{bold_end} Your trip is protected by our %{link_start}Guest Refund Policy%{link_end}."
-    },
     "mario_hog_become_a_host_dropdown_experiment": {
         "experiences_header": "Experiences",
         "experiences_subtitle": "Earn money leading people on activities you love",
