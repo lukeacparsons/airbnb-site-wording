@@ -1344,7 +1344,7 @@
     "community_commitment.caption_introduction.all_existing_hosts_must_confirm_commitment.learnmore_link": "We\u2019re asking all hosts to confirm their commitment to welcoming guests of all backgrounds. %{link_start}Learn more%{link_end}",
     "community_commitment.caption_introduction.hosts_are_responsible_for_welcoming_people_of_all_backgrounds_with_link.learnmore_link": "As an Airbnb host, you\u2019re responsible for welcoming people of all backgrounds, from the moment you\u2019re considering a reservation to the moment you\u2019re greeting guests for the first time. Please take time to read this commitment. %{link_start}Learn more%{link_end}",
     "community_commitment.caption_introduction.please_agree_to_respecting_and_including_everyone.learnmore_link": "Whether it\u2019s your first time using Airbnb or you\u2019re one of our original travelers, please commit to respecting and including everyone in the Airbnb community. %{link_start}Learn more%{link_end}",
-    "community_commitment.check_out_our_detailed_faqs_in_the_help_center": "Check out our detailed FAQs in the Nondiscrimination Help Center: %{help_center_link}.",
+    "community_commitment.check_out_our_detailed_faqs_in_the_help_center": "Check out our detailed FAQs in the %{link_start}Nondiscrimination Help Center%{link_end}.",
     "community_commitment.community_commitment_title_for_the_first_paragraph": "Airbnb Community Commitment",
     "community_commitment.confirmation_of_account_cancellation": "Your account has been canceled",
     "community_commitment.confirmation_of_signup_cancellation": "Signup canceled",
