@@ -5279,6 +5279,8 @@
     "quick_pay.apple_pay.no_billing_error_subtitle": "We were unable to retrieve billing information through Apple Pay. Please try again or use a different payment method.",
     "quick_pay.apple_pay.no_total_error_subtitle": "We were unable to process the payment with Apple Pay. Please try a different payment method.",
     "quick_pay.apple_pay.not_supported_error_subtitle": "Apple Pay is not supported. Please choose a different payment method.",
+    "quick_pay.apple_pay_payment_sheet_label_due_now": "DUE NOW",
+    "quick_pay.apple_pay_payment_sheet_label_total": "TOTAL",
     "quick_pay.brazilian installments installment plan": "Installment plan",
     "quick_pay.business_travel.payment_instructions": "Your company will be billed for this trip and sent a copy of the itinerary. Please make sure to follow your company\u2019s travel policies.",
     "quick_pay.cc_address_1_required": "Address is required",
