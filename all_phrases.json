@@ -5354,6 +5354,8 @@
     "quick_pay.iframe placeholder for cvv focused": "3 digits",
     "quick_pay.iframe placeholder for expiration field": "Expiration",
     "quick_pay.iframe placeholder for expiration focused": "MM / YY",
+    "quick_pay.iframe_numeric_placeholder_for_3_digit_cvv_focused": "123",
+    "quick_pay.iframe_numeric_placeholder_for_4_digit_cvv_focused": "1234",
     "quick_pay.label for birthdate (Brazilian Birthdate)": "Birthdate",
     "quick_pay.label for building number (Address2 for Brazilian Addresses)": "Building number",
     "quick_pay.label for cep (Brazilian Postal Code)": "CEP",
