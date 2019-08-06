@@ -3026,6 +3026,7 @@
         "reservation_code": "Reservation code"
     },
     "mario_copy_luxury_pdp": {
+        "": "Your message",
         "about_title": "About",
         "add_dates_cta": "Add dates",
         "add_on_services": "Add-on services",
@@ -3174,7 +3175,8 @@
         "value_prop_trip_designer": "Start-to-finish trip planning",
         "value_prop_trip_designer_details": "Trip designers coordinate your arrival, departure, and everything in between.",
         "what_to_bring_title": "What to bring",
-        "who_can_come_title": "Who can come"
+        "who_can_come_title": "Who can come",
+        "your_message": "Your message"
     },
     "mario_copy_luxury_search": {
         "list_view_toggle_label": "List View",
