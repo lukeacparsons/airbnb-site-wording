@@ -4535,7 +4535,6 @@
     "ml.booking_pane.polices.checkout time label": "Checkout time",
     "ml.booking_pane.polices.policies learn more link": "Learn more",
     "ml.booking_pane.polices.policies title": "Policies",
-    "ml.booking_pane.polices.policies.beta": "BETA",
     "ml.cancellation_policy.options.flexible.label": "Flexible",
     "ml.cancellation_policy.options.flexible.new.label": "Flexible",
     "ml.cancellation_policy.options.flexible.new.subtitle": "If your guest cancels within %{highlight_start}24 hours%{highlight_end} of their trip, you\u2019ll get paid for just the first night of the reservation.",
