@@ -798,7 +798,7 @@
     "airlock.paypal.reauthenticate_friction.error.header": "Let's try that again",
     "airlock.paypal.reauthenticate_friction.error.paypal_button": "Try again",
     "airlock.paypal.reauthenticate_friction.intro.description.1": "We need to confirm your PayPal account to process your payment.",
-    "airlock.paypal.reauthenticate_friction.intro.description.1.dynamic": "We need to confirm your %{email_address} PayPal account to \"\\\n                 \"process your payment.",
+    "airlock.paypal.reauthenticate_friction.intro.description.1.dynamic": "We need to confirm your %{email_address} PayPal account to process your payment.",
     "airlock.paypal.reauthenticate_friction.intro.description.2": "Once the PayPal window closes, you\u2019ll continue on Airbnb.",
     "airlock.paypal.reauthenticate_friction.intro.header": "Confirm your PayPal account",
     "airlock.paypal.reauthenticate_friction.intro.paypal_button": "OK",
