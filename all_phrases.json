@@ -5425,6 +5425,7 @@
     "quick_pay.placeholder for day (Brazilian Birthdate)": "dd",
     "quick_pay.placeholder for month (Brazilian Birthdate)": "mm",
     "quick_pay.placeholder for year (Brazilian Birthdate)": "yyyy",
+    "quick_pay.processing_transaction": "Processing transaction...",
     "quick_pay.secure payment icon": "Secure payment",
     "quick_pay.shared text for canceling flow": "Cancel",
     "quick_pay.shared text for continuing flow": "Continue",
