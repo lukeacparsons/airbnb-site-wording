@@ -6181,6 +6181,7 @@
     "thanks_for_providing_feedback": "Thanks for providing your feedback",
     "the_neighborhood": "The neighborhood",
     "things_to_do": "You have %{smart_count} thing left to do: ||||You have %{smart_count} things left to do:",
+    "things_to_do_overview.footer.Things_To_Do": "Things To Do",
     "toggle_map": "Show Map",
     "tooltip.cancellation_policy_category.description": "If your plans change, you can cancel this reservation up to 24 hours before check-in.",
     "tooltip.faq": "FAQ",
