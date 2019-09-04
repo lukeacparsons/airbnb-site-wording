@@ -1278,6 +1278,7 @@
     "china_rtb_first_message_outbound_default_text_7": "Hi %{host_name}, I\u2019m travelling to %{listing_location} from %{guest_location}. I am very interested in your listing and feel it will be great for my trip. Hope to have the opportunity to stay during this time. Thank you! ^ ^",
     "china_rtb_first_message_outbound_default_text_8": "Hello %{host_name}, I really like your listing and look forward to staying during this time.",
     "china_rtb_first_message_outbound_default_text_9": "Hello %{host_name}, I saw your listing on Airbnb and really like it. Look forward to staying during this time. Thank you! :)",
+    "china_web_browsing_history.main_name_used_everywhere": "History",
     "choose_currency": "Choose Currency",
     "choose_language": "Choose Language",
     "choose_verification_header": "Choose to verify via:",
