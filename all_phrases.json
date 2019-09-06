@@ -2399,6 +2399,7 @@
     "homes_checkout_flow.unavailable_error.action_text.change_guests": "Change guests",
     "homes_checkout_flow.unavailable_error.action_text.change_request": "Change request",
     "homes_checkout_flow.unavailable_error.action_text.update_request": "Update request",
+    "homes_checkout_flow.unavailable_error.generic_error_subtitle": "Unfortunately, this listing's details have changed.",
     "homes_checkout_flow.unavailable_error.generic_error_title": "There was an issue with your request",
     "homes_checkout_flow.unavailable_error.subtitle.listing_detail_changed_message": "Unfortunately, this listing's details have changed. Try updating your reservation request.",
     "homes_checkout_flow.unavailable_error.title.update_dates": "Let's update your dates",
